@@ -227,7 +227,9 @@
         "9551": "The campaign period has ended. \nReturning to home screen.",
         "9651": "The trait assignment pass has expired.",
         "100001": "Unable to enter the story event because data was not found.",
-        "2514": "Cannot set as favorite icon for an\\nInherited Uma Musume that is unavailable for rental.\\nReturning to title screen."
+        "2514": "Cannot set as favorite icon for an\\nInherited Uma Musume that is unavailable for rental.\\nReturning to title screen.",
+        "9106": "Outside the Entry Uma Musume registration change period.\\nReturning to the Home screen.",
+        "9403": "The Factor Re-acquisition Pass has expired."
     },
     "2": {
         "101": "Maintenance",
