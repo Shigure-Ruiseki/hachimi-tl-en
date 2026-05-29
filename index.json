@@ -18005,7 +18005,7 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "3d3d52c6810e096832266d47eb862f02aaa76e5df91998f3caae86ae33303114",
+      "hash": "ae3b419564a4fd53f6ca75d9a120a5d79d2522e5f602f7aeb546662d39ebdc35",
       "size": 1053166
     },
     {
@@ -18015,8 +18015,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "d50985ea9f83a3bdaae94b044a2a8730192d1aaf77f349ec59a5d4679c06c584",
-      "size": 15174
+      "hash": "820eff0f99a97a81d517ae8e83721121c8d96afa6c981e5acab0eb8639c77ef6",
+      "size": 15176
     },
     {
       "path": "includes_android",
@@ -18045,8 +18045,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "becf6931bb3ec933d9ed2aec206fc363656d2932c946f03c1584aa9a47ddc7ca",
-      "size": 3376877
+      "hash": "5f1bbd7b20926acc5ae0a18e9e2f7c329f3b8645ef4b3ea02086f3010f793557",
+      "size": 3376857
     }
   ]
 }
