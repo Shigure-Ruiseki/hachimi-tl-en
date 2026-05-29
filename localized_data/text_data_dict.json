@@ -16644,7 +16644,9 @@
         "204442": "Shadowing",
         "204431": "Outrun the Dust",
         "102503111": "Supernatural Experience",
-        "102503211": "Otherworldly"
+        "102503211": "Otherworldly",
+        "111161": "Unfading Cattleya",
+        "911161": "Unfading Cattleya"
         },
     "48": {
         "10071": "Slightly increase velocity with a long spurt starting halfway through the race.",
@@ -18537,7 +18539,12 @@
         "204432": "If you're in a last spurt on any straight,\nyour acceleration will slightly increase. (Late Surger)",
         "204442": "During the Middle Leg, your speed will slightly increase; the effect is stronger if you're at least 6 lengths behind the first place. (Late Surger)",
         "102503211": "If you're in a last spurt on any straight, your acceleration will increase. (Late Surger)",
-        "102503111": "When entering the Final Corner, you will move forward; the effect duration increases based on the number of times you have completely climbed an uphill slope, up to 4 times. (Late Surger/Long)"
+        "102503111": "When entering the Final Corner, you will move forward; the effect duration increases based on the number of times you have completely climbed an uphill slope, up to 4 times. (Late Surger/Long)",
+        "111161": "If you are in the middle of the pack at the race's midpoint, your speed will immensely increase at the remaining 400m mark; the effect increases if you are in a good position when the skill activates. (Medium)",
+        "900761": "If you are in the middle of the pack at the race's midpoint, your speed will slightly increase; in a Long Distance race, the effect duration increases and your stamina will slightly recover.",
+        "900941": "If you are in the middle of the pack at the race's midpoint, your speed will marginally increase; if it is a Medium Distance race, it will slightly increase.",
+        "910831": "If you are in the middle of the pack at the race's midpoint, your speed will marginally increase in the final straight.",
+        "911161": "If you are in the middle of the pack at the race's midpoint, your speed will slightly increase at the remaining 400m mark; the effect increases if you are in a good position when the skill activates. (Medium)"
     },
     "49": {
         "1": "50 Jewels",
@@ -39340,7 +39347,10 @@
         "2044303": "Faster Than Shadows",
         "2044401": "Shadowing",
         "2044402": "Shadowing",
-        "2044403": "Shadowing"
+        "2044403": "Shadowing",
+        "11160201": "Unfading Cattleya",
+        "11160202": "Unfading Cattleya",
+        "11160203": "Unfading Cattleya"
     },
     "148": {
         "1": "Ace Bonus",
@@ -43928,7 +43938,10 @@
         "2044303": "Gain skill hint: Faster Than Shadows",
         "2044401": "Gain skill hint: Shadowing",
         "2044402": "Gain skill hint: Shadowing",
-        "2044403": "Gain skill hint: Shadowing"
+        "2044403": "Gain skill hint: Shadowing",
+        "11160201": "Gain skill hint: Unfading Cattleya",
+        "11160202": "Gain skill hint: Unfading Cattleya",
+        "11160203": "Gain skill hint: Unfading Cattleya"
     },
     "173": {
         "1139": "Tracen Academy \"DREAMS\" Supervisor",
@@ -54112,7 +54125,12 @@
         "830292003": "Building \"Love\"",
         "501025803": "Floating in the Night",
         "501025804": "Face Your Fears!",
-        "501025805": "Repeat, Until You Choose"
+        "501025805": "Repeat, Until You Choose",
+        "501025510": "Jet-Black Barista",
+        "501025511": "Heart-Pounding Supernatural Exploration Tour",
+        "501025520": "The Visitor",
+        "501025525": "Devil's Whisper",
+        "501025516": "A Bellyful of Kindness"
     },
     "264": {
         "1": "Akito (NPC)",
