@@ -15844,6 +15844,7 @@
         "204431": "Outrun the Dust",
         "204432": "Faster Than Shadows",
         "204442": "Shadowing",
+        "204462": "Now, Onto My Own Path!",
         "210011": "Burning Spirit SPD",
         "210012": "Ignited Spirit SPD",
         "210021": "Burning Spirit STA",
@@ -17741,6 +17742,7 @@
         "204431": "If you're in a last spurt on any straight, your acceleration will slightly increase. (Late Surger)",
         "204432": "If you're in a last spurt on any straight,\nyour acceleration will slightly increase. (Late Surger)",
         "204442": "During the Middle Leg, your speed will slightly increase; the effect is stronger if you're at least 6 lengths behind the first place. (Late Surger)",
+        "204462": "When nearing the midpoint of the race, if you are in the middle of the pack or further back, your speed will marginally increase. (Mile)",
         "210011": "Burn bright with team spirit, increasing velocity in proportion to the total Speed of racing team members mid-race.",
         "210012": "Burn bright with team spirit, slightly increasing velocity in proportion to the total Speed of racing team members mid-race.",
         "210021": "Burn bright with team spirit, recovering endurance in proportion to the total Stamina of racing team members mid-race.",
@@ -32502,7 +32504,8 @@
         "30289": "[Innovator] Forever Young",
         "30290": "[American Dream] Casino Drive",
         "30291": "[Let's Go Together!] Victoire Pisa",
-        "30292": "[Two Sing of Victory] Marche Lorraine"
+        "30292": "[Two Sing of Victory] Marche Lorraine",
+        "30301": "[Smile Ever After] Gran Alegria"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -33012,7 +33015,8 @@
         "30289": "[Innovator]",
         "30290": "[American Dream]",
         "30291": "[Let's Go Together!]",
-        "30292": "[Two Sing of Victory]"
+        "30292": "[Two Sing of Victory]",
+        "30301": "[Smile Ever After]"
     },
     "77": {
         "10001": "Special Week",
@@ -38293,6 +38297,9 @@
         "2044401": "Shadowing",
         "2044402": "Shadowing",
         "2044403": "Shadowing",
+        "2044601": "Now, Onto My Own Path!",
+        "2044602": "Now, Onto My Own Path!",
+        "2044603": "Now, Onto My Own Path!",
         "2100101": "Aoharu Ignition - Speed",
         "2100102": "Aoharu Ignition - Speed",
         "2100103": "Aoharu Ignition - Speed",
@@ -42834,6 +42841,9 @@
         "2044401": "Gain skill hint: Shadowing",
         "2044402": "Gain skill hint: Shadowing",
         "2044403": "Gain skill hint: Shadowing",
+        "2044601": "Gain skill hint: Now, Onto My Own Path!",
+        "2044602": "Gain skill hint: Now, Onto My Own Path!",
+        "2044603": "Gain skill hint: Now, Onto My Own Path!",
         "2100101": "Gain skill hint: Aoharu Ignition - Speed",
         "2100102": "Gain skill hint: Aoharu Ignition - Speed",
         "2100103": "Gain skill hint: Aoharu Ignition - Speed",
