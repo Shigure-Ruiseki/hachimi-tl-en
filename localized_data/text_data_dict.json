@@ -16646,7 +16646,8 @@
         "102503111": "Supernatural Experience",
         "102503211": "Otherworldly",
         "111161": "Unfading Cattleya",
-        "911161": "Unfading Cattleya"
+        "911161": "Unfading Cattleya",
+        "111602211": "Pride of the Strongest Lady"
         },
     "48": {
         "10071": "Slightly increase velocity with a long spurt starting halfway through the race.",
@@ -18544,7 +18545,8 @@
         "900761": "If you are in the middle of the pack at the race's midpoint, your speed will slightly increase; in a Long Distance race, the effect duration increases and your stamina will slightly recover.",
         "900941": "If you are in the middle of the pack at the race's midpoint, your speed will marginally increase; if it is a Medium Distance race, it will slightly increase.",
         "910831": "If you are in the middle of the pack at the race's midpoint, your speed will marginally increase in the final straight.",
-        "911161": "If you are in the middle of the pack at the race's midpoint, your speed will slightly increase at the remaining 400m mark; the effect increases if you are in a good position when the skill activates. (Medium)"
+        "911161": "If you are in the middle of the pack at the race's midpoint, your speed will slightly increase at the remaining 400m mark; the effect increases if you are in a good position when the skill activates. (Medium)",
+        "111602211": "When nearing the final stage of the race, if you are in the middle of the pack or further back, your speed will increase; if it is a 2400m race at Tokyo Racecourse, it will tremendously increase. (Late Surger)"
     },
     "49": {
         "1": "50 Jewels",
@@ -57236,7 +57238,14 @@
         "10250303": "Learn 2 Late Surger skills",
         "10050305": "Reach ≥600 Stamina",
         "10250301": "Reach ≥600 Stamina",
-        "10940206": "Reach ≥600 Stamina"
+        "10940206": "Reach ≥600 Stamina",
+        "11160203": "Win 8 or more G1 races using the Late Surger.",
+        "10050302": "Learn 3 Speed-increasing skills",
+        "10050303": "Reach ≥600 Guts",
+        "10940201": "Reach ≥600 Guts",
+        "11120103": "Reach ≥600 Guts",
+        "11160205": "Reach ≥600 Guts",
+        "11360101": "Reach ≥600 Guts"
     },
     "301": {
         "1001": "Agnes Tachyon's Traits Research",
