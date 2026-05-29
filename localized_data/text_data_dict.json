@@ -16637,7 +16637,9 @@
         "113701111": "Brush Up!",
         "113701211": "Emergency Reprint",
         "114301111": "Chain of Hearts",
-        "114301211": "Light in the Dark"
+        "114301211": "Light in the Dark",
+        "120251": "In times of wandering, in times of waning",
+        "920251": "In times of wandering, in times of waning"
         },
     "48": {
         "10071": "Slightly increase velocity with a long spurt starting halfway through the race.",
@@ -18523,7 +18525,9 @@
         "113701111": "Front・At a random point during the second half of the Opening Leg, your speed will increase; (Oonige/Runaway) your speed will only increase slightly, but your stamina will also recover",
         "113701211": "Front・2000 m+・If you're in the first half of the pack at a random point during the first quarter of the Final Leg, your acceleration will increase; if you're first or second, you will also get a slight speed boost",
         "114301111": "Late・If you're not in the front during a random Middle Leg straight, you will get a speed boost; then, if you're in the middle of the pack during the Final Straight, your speed will slightly increase",
-        "114301211": "Medium/Long・At a random point on a random corner, you will get a speed boost; in Medium races, your acceleration will also slightly increase"
+        "114301211": "Medium/Long・At a random point on a random corner, you will get a speed boost; in Medium races, your acceleration will also slightly increase",
+        "120251": "During the Middle Leg, your stamina will recover; then, if it's a Long-distance race, being in the middle of the pack during the second half of the race will cause you to continuously move forward (Late Surger)",
+        "920251": "During the Middle Leg, your stamina will slightly recover (Late Surger)"
     },
     "49": {
         "1": "50 Jewels",
@@ -39317,7 +39321,10 @@
         "11270103": "Target Acquired! Serving Justice!",
         "11360101": "Prayer of Innocence Holy Light",
         "11360102": "Prayer of Innocence Holy Light",
-        "11360103": "Prayer of Innocence Holy Light"
+        "11360103": "Prayer of Innocence Holy Light",
+        "10250301": "In times of wandering, in times of waning",
+        "10250302": "In times of wandering, in times of waning",
+        "10250303": "In times of wandering, in times of waning"
     },
     "148": {
         "1": "Ace Bonus",
@@ -43896,7 +43903,10 @@
         "11430103": "Increases Stamina Cap & Guts Cap & Wit Cap, gain skill hint: Ring-a-Link",
         "11360101": "Increases Speed Cap & Guts Cap & Wit Cap, gain skill hint: Prayer of Innocence Holy Light",
         "11360102": "Increases Speed Cap & Guts Cap & Wit Cap, gain skill hint: Prayer of Innocence Holy Light",
-        "11360103": "Increases Speed Cap & Guts Cap & Wit Cap, gain skill hint: Prayer of Innocence Holy Light"
+        "11360103": "Increases Speed Cap & Guts Cap & Wit Cap, gain skill hint: Prayer of Innocence Holy Light",
+        "10250301": "Increases Power Cap & Guts Cap & Wit Cap, gain skill hint: In times of wandering, in times of waning",
+        "10250302": "Increases Power Cap & Guts Cap & Wit Cap, gain skill hint: In times of wandering, in times of waning",
+        "10250303": "Increases Power Cap & Guts Cap & Wit Cap, gain skill hint: In times of wandering, in times of waning"
     },
     "173": {
         "1139": "Tracen Academy \"DREAMS\" Supervisor",
