@@ -16647,7 +16647,8 @@
         "102503211": "Otherworldly",
         "111161": "Unfading Cattleya",
         "911161": "Unfading Cattleya",
-        "111602211": "Pride of the Strongest Lady"
+        "111602211": "Pride of the Strongest Lady",
+        "111602111": "——Now, Let's Dance"
         },
     "48": {
         "10071": "Slightly increase velocity with a long spurt starting halfway through the race.",
@@ -18546,7 +18547,8 @@
         "900941": "If you are in the middle of the pack at the race's midpoint, your speed will marginally increase; if it is a Medium Distance race, it will slightly increase.",
         "910831": "If you are in the middle of the pack at the race's midpoint, your speed will marginally increase in the final straight.",
         "911161": "If you are in the middle of the pack at the race's midpoint, your speed will slightly increase at the remaining 400m mark; the effect increases if you are in a good position when the skill activates. (Medium)",
-        "111602211": "When nearing the final stage of the race, if you are in the middle of the pack or further back, your speed will increase; if it is a 2400m race at Tokyo Racecourse, it will tremendously increase. (Late Surger)"
+        "111602211": "When nearing the final stage of the race, if you are in the middle of the pack or further back, your speed will increase; if it is a 2400m race at Tokyo Racecourse, it will tremendously increase. (Late Surger)",
+        "111602111": "If you are in the middle of the pack or further back at the third corner before the final corner, you will move forward; furthermore, if it is a 2400m race at Tokyo Racecourse, your acceleration will slightly increase. (Mile/Medium)"
     },
     "49": {
         "1": "50 Jewels",
@@ -57247,7 +57249,8 @@
         "11360101": "Reach ≥600 Guts",
         "10940203": "Learn 3 Speed-increasing skills",
         "11160204": "Learn 3 Speed-increasing skills",
-        "11360102": "Learn 3 Speed-increasing skills"
+        "11360102": "Learn 3 Speed-increasing skills",
+        "11160202": "Learn 3 Medium Distance skills"
     },
     "301": {
         "1001": "Agnes Tachyon's Traits Research",
