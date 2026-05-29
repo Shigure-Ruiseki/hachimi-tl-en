@@ -57240,12 +57240,14 @@
         "10250301": "Reach ≥600 Stamina",
         "10940206": "Reach ≥600 Stamina",
         "11160203": "Win 8 or more G1 races using the Late Surger.",
-        "10050302": "Learn 3 Speed-increasing skills",
         "10050303": "Reach ≥600 Guts",
         "10940201": "Reach ≥600 Guts",
         "11120103": "Reach ≥600 Guts",
         "11160205": "Reach ≥600 Guts",
-        "11360101": "Reach ≥600 Guts"
+        "11360101": "Reach ≥600 Guts",
+        "10940203": "Learn 3 Speed-increasing skills",
+        "11160204": "Learn 3 Speed-increasing skills",
+        "11360102": "Learn 3 Speed-increasing skills"
     },
     "301": {
         "1001": "Agnes Tachyon's Traits Research",
