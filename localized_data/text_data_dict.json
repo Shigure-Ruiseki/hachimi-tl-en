@@ -2922,8 +2922,8 @@
         "107601": "Saisir le Rêve",
         "107901": "Triumphant Return of the Auspicious Star",
         "108001": "ZOKU-ZOKU GIZMO",
-        "108201": "Looking Fly!",
         "108002": "Twilit Neo-Kagura",
+        "108201": "Looking Fly!",
         "108220": "Pale Cerulean Streak",
         "108301": "Onyx Soldier",
         "108340": "Jet Black Automaton",
@@ -16120,6 +16120,7 @@
         "203302": "Fervor",
         "203311": "Flash",
         "203312": "Towards the Light",
+        "203321": "Descending Wings",
         "203322": "Descent",
         "203331": "Thorough Preparation",
         "203332": "Preliminary Preparation",
@@ -16163,6 +16164,7 @@
         "203541": "Carefree Stride",
         "203542": "Footloose",
         "203552": "Step Up",
+        "203561": "Utmost Effort",
         "203562": "Fierce Struggle",
         "203571": "Breach",
         "203572": "Foothold",
@@ -17116,9 +17118,7 @@
         "113701111": "Brush Up!",
         "113701211": "Emergency Reprint",
         "114301111": "Chain of Hearts",
-        "114301211": "Light in the Dark",
-        "203561": "Utmost Effort",
-        "203321": "Descending Wings"
+        "114301211": "Light in the Dark"
     },
     "48": {
         "10071": "Slightly increase velocity with a long spurt starting halfway through the race.",
