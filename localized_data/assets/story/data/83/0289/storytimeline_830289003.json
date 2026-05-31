@@ -114,8 +114,8 @@
             "name": "Monologue",
             "text": "It's only a natural reaction. The name Forever Young\nhasn't made waves overseas yet. But—",
             "choice_data_list": [
-                "<size=38>If anyone can spark a true innovation, it's her!",
-                "<size=35>(The roadmap to victory must already be laid out.)"
+                "<size=38>If anyone can spark a true innovation, it's her!.</size>",
+                "<size=35>(The roadmap to victory must already be laid out</size>)"
             ]
         },
         {
@@ -146,7 +146,7 @@
             "name": "Monologue",
             "text": "Thinking back, the groundwork she spoke \nof during the overseas inspection \nWas likely about exhibiting at the Expo and making inquiries regarding this race.\nIf so—",
             "choice_data_list": [
-                "<size=32>She must definitely have a strategy for victory in place!"
+                "<size=32>She must definitely have a strategy for victory in place!</size>"
             ]
         },
         {
@@ -165,7 +165,7 @@
             "name": "Monologue",
             "text": "Thinking back, the groundwork she spoke \nof during the overseas inspection \nWas likely about exhibiting at the Expo and making inquiries regarding this race.\nIf so—",
             "choice_data_list": [
-                "<size=32>She must definitely have a strategy for victory in place!"
+                "<size=32>She must definitely have a strategy for victory in place!</size>"
             ]
         },
         {
@@ -184,7 +184,7 @@
             "name": "Monologue",
             "text": "She shines despite the away turf—but \nlocal racers guard their pride. Showing power early, they refuse to yield the lead.",
             "choice_data_list": [
-                "<size=34>No wonder the local dirt racers are so powerful...!"
+                "<size=34>No wonder the local dirt racers are so powerful...!</size>"
             ]
         },
         {
