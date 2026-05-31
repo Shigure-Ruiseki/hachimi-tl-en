@@ -12151,13 +12151,7 @@
     "1120": {
         "11": "Cygames",
         "12": "Umamusume: Pretty Derby!",
-        "80000": "Good work.",
-        "910100": "Ha, you think you\ncan reach this speed?",
-<<<<<<< HEAD
-        "920000": "At maximum speed....... let's go!"
-=======
-        "920000": "Let's go… at maximum speed!"
->>>>>>> upstream/main
+        "80000": "Good work."
     },
     "1121": {
         "11": "Cygames",
@@ -12494,7 +12488,7 @@
         "71018": "Yes… I've changed…",
         "71019": "Does it… suit me…?",
         "80000": "Thanks for your hard work.",
-        "90000": "The early bird gets the worm… For example, you can take commemorative photos with the lead Horsegirls at the racecourse…",
+        "90000": "The early bird gets the worm… For example, you can take commemorative photos with the lead Trainees at the racecourse…",
         "90001": "Hehe… Ah, no… it's just, there was a very fascinating article in this morning's sports newspaper…",
         "90002": "My test predictions might be more accurate than my race predictions… I was spot on for this morning's quiz, too…",
         "90003": "To fine-tune my nutritional balance… I try to make my own <i>bento</i>… a few times a week.",
@@ -12512,7 +12506,7 @@
         "91004": "My mother has the type of personality to forget to eat and sleep for her research… but it seems she never forgets to watch my races Live…",
         "91005": "To be wearing the same kind of outfit I used to watch from the stands almost every week… It's a slightly strange feeling.",
         "91006": "A Live is the place where the dreams entrusted to the race blossom… That's why I want to give the best performance possible.",
-        "91007": "A racing outfit that holds its own even when displayed at the racecourse alongside the G1 Horsegirls of the past…! …Is what I was aiming for, but…",
+        "91007": "A racing outfit that holds its own even when displayed at the racecourse alongside the G1 Trainees of the past…! …Is what I was aiming for, but…",
         "91008": "The asymmetry is… umm, because it gives a sense of dynamism… and I thought it would look good in race photos…",
         "91009": "I heard Gran's energetic <i>Good mile-ning!</i> earlier… Hehe, it cheered me up, too.",
         "91010": "History class… It gets me so excited that I become wide awake… but it seems that's not the case for a lot of people…",
@@ -12528,7 +12522,7 @@
         "92005": "Umm, Trainer, would you like to… stretch with me? So neither of us gets injured… Just to be safe.",
         "92006": "I hope someday, you and I, Trainer… will be spoken of by someone as a <i>legendary duo in history</i>…",
         "92007": "As long as I'm with you, Trainer, we can create a shining history… I'm sure of it. …I have that kind of conviction.",
-        "92011": "This period is so important that the term <i>Summer's rising Horsegirl</i> even exists… Umm… please don't hold back on me…!",
+        "92011": "This period is so important that the term <i>Summer's rising Trainee</i> even exists… Umm… please don't hold back on me…!",
         "93000": "It's like a dream… The history we created, together…",
         "93001": "Let's continue to layer our history together.",
         "95000": "I've added another layer to my history.",
@@ -12759,8 +12753,8 @@
     },
     "1139": {
         "20051": "Let's synergize!",
-        "23020": "Which race is your target?\nPlease consider your horsegirl's\naptitudes when deciding!",
-        "23021": "Depending on your target race, your\nhorsegirl's career goals may change!",
+        "23020": "Which race is your target?\nPlease consider your trainee's\naptitudes when deciding!",
+        "23021": "Depending on your target race, your\ntrainee's career goals may change!",
         "23022": "Select the BC race you intend\nto target. Make this decision carefully."
     },
     "1140": {
