@@ -12389,6 +12389,261 @@
       "size": 11930
     },
     {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00000.diff.png",
+      "hash": "4442a51435c4ce08901ec5196c284ecc51585d5d959e6c64b13b2c4a400839f2",
+      "size": 247153
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00003.diff.png",
+      "hash": "36a0b60c5af656e545e042751e4d966f27ffac824a29920dcd0c7a67cf84d38a",
+      "size": 183883
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00004.diff.png",
+      "hash": "0dff9eaef67138696cb036ba422918ca5ac6de70c1ae7a529e6a23f3f342b1a6",
+      "size": 251390
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00005.diff.png",
+      "hash": "2698fdfb7de4829b28dcb78067af83815c6dfc6c72d6086252dd5a25daf6d47d",
+      "size": 249111
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00011.diff.png",
+      "hash": "b664a6e71676e32d40358ccd50b826b449df642955eb8395ae12b61f6fd48f6a",
+      "size": 249959
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00013.diff.png",
+      "hash": "02ded655877c8caa3e7c46b0827bb7637e182ff62e9c22ce3b6c86cdc3645798",
+      "size": 265316
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00016.diff.png",
+      "hash": "02ded655877c8caa3e7c46b0827bb7637e182ff62e9c22ce3b6c86cdc3645798",
+      "size": 265316
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00017.diff.png",
+      "hash": "bab03356f9cfb0287d9e346ccf61a20774880470d2db8b4032ca1c24684cd186",
+      "size": 255312
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00018.diff.png",
+      "hash": "02ded655877c8caa3e7c46b0827bb7637e182ff62e9c22ce3b6c86cdc3645798",
+      "size": 265316
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00030.diff.png",
+      "hash": "b664a6e71676e32d40358ccd50b826b449df642955eb8395ae12b61f6fd48f6a",
+      "size": 249959
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00035.diff.png",
+      "hash": "b664a6e71676e32d40358ccd50b826b449df642955eb8395ae12b61f6fd48f6a",
+      "size": 249959
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00040.diff.png",
+      "hash": "b664a6e71676e32d40358ccd50b826b449df642955eb8395ae12b61f6fd48f6a",
+      "size": 249959
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00045.diff.png",
+      "hash": "b664a6e71676e32d40358ccd50b826b449df642955eb8395ae12b61f6fd48f6a",
+      "size": 249959
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00047.diff.png",
+      "hash": "b664a6e71676e32d40358ccd50b826b449df642955eb8395ae12b61f6fd48f6a",
+      "size": 249959
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00049.diff.png",
+      "hash": "cd2a4c07f918360a7b7067174ec9f261741307c5b1b534a5cd1f03d8230b914e",
+      "size": 337078
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00050.diff.png",
+      "hash": "2698fdfb7de4829b28dcb78067af83815c6dfc6c72d6086252dd5a25daf6d47d",
+      "size": 249111
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00090.diff.png",
+      "hash": "de76ae36422759e8a76b9ba84600716804b3c4edccd67942b81f5cee82298721",
+      "size": 262870
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00100.diff.png",
+      "hash": "aa003ab21773dba08880b20e20ee679ba2a699335c324dfbd1f0194357feb9d8",
+      "size": 245609
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00101.diff.png",
+      "hash": "aefa2f1e413e6235f5da11afae58484ceacd3ba195b7c2aab95f69c83025c3b5",
+      "size": 244762
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00102.diff.png",
+      "hash": "c9b9b38dca9a17d07f54367ac9fe6011193c2991a7b54c5b2831a2bca0345970",
+      "size": 252145
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00105.diff.png",
+      "hash": "0cb16988212a61567361afeaa53466da2116857f96901c3ab23b898a851fb9d4",
+      "size": 275051
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00106.diff.png",
+      "hash": "7ce32d67543c41d2330d08810a3852ef3262e6731f57886b8f811c424b77b506",
+      "size": 265623
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00107.diff.png",
+      "hash": "7ce32d67543c41d2330d08810a3852ef3262e6731f57886b8f811c424b77b506",
+      "size": 265623
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00108.diff.png",
+      "hash": "7ce32d67543c41d2330d08810a3852ef3262e6731f57886b8f811c424b77b506",
+      "size": 265623
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00109.diff.png",
+      "hash": "114352568e2cff8a683bc1de6d211d9cc7b435fb88827be131e4e5950bf750f3",
+      "size": 263622
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00110.diff.png",
+      "hash": "114352568e2cff8a683bc1de6d211d9cc7b435fb88827be131e4e5950bf750f3",
+      "size": 263622
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00111.diff.png",
+      "hash": "114352568e2cff8a683bc1de6d211d9cc7b435fb88827be131e4e5950bf750f3",
+      "size": 263622
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00112.diff.png",
+      "hash": "114352568e2cff8a683bc1de6d211d9cc7b435fb88827be131e4e5950bf750f3",
+      "size": 263622
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00113.diff.png",
+      "hash": "114352568e2cff8a683bc1de6d211d9cc7b435fb88827be131e4e5950bf750f3",
+      "size": 263622
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00114.diff.png",
+      "hash": "114352568e2cff8a683bc1de6d211d9cc7b435fb88827be131e4e5950bf750f3",
+      "size": 263622
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00115.diff.png",
+      "hash": "114352568e2cff8a683bc1de6d211d9cc7b435fb88827be131e4e5950bf750f3",
+      "size": 263622
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00116.diff.png",
+      "hash": "114352568e2cff8a683bc1de6d211d9cc7b435fb88827be131e4e5950bf750f3",
+      "size": 263622
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00120.diff.png",
+      "hash": "9186b8d2fefbec14e9937ad04f2a92c368494811cb08e50779a2d783c146f4ca",
+      "size": 261985
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00134.diff.png",
+      "hash": "7492166d6b1d505c080e7b9be0dc95c242e5776a42624ae46ea1d7642fa1e236",
+      "size": 402747
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00137.diff.png",
+      "hash": "38abb5558c55154a572786059cb245e4a1621474500e09db44e921ef3bfb4d7d",
+      "size": 262901
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00138.diff.png",
+      "hash": "68f1156b4629f49e9c9e7e94016eb9edf8c27116800adc29ecd068e242cb3ce1",
+      "size": 261243
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00139.diff.png",
+      "hash": "46f87b9fd5269ce4960074fc1e26a87459af8d41e0f538ec3e4f04364614476e",
+      "size": 286623
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00141.diff.png",
+      "hash": "c38119895acb90fab9912a07540381f12c02951ccb4adb40593ef3cd6f292d8a",
+      "size": 261701
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00146.diff.png",
+      "hash": "6d652ec10f9195b2a8d91989c1a24d1745f18929a5e6782126ec88341e7b30a2",
+      "size": 252781
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00147.diff.png",
+      "hash": "6d652ec10f9195b2a8d91989c1a24d1745f18929a5e6782126ec88341e7b30a2",
+      "size": 252781
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00148.diff.png",
+      "hash": "6d652ec10f9195b2a8d91989c1a24d1745f18929a5e6782126ec88341e7b30a2",
+      "size": 252781
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00149.diff.png",
+      "hash": "6d652ec10f9195b2a8d91989c1a24d1745f18929a5e6782126ec88341e7b30a2",
+      "size": 252781
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00155.diff.png",
+      "hash": "16867b2276c0c0abdd255731b485df34d0fb04728560faf4237d678ec286b33e",
+      "size": 260089
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00156.diff.png",
+      "hash": "16867b2276c0c0abdd255731b485df34d0fb04728560faf4237d678ec286b33e",
+      "size": 260089
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00157.diff.png",
+      "hash": "16867b2276c0c0abdd255731b485df34d0fb04728560faf4237d678ec286b33e",
+      "size": 260089
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00158.diff.png",
+      "hash": "16867b2276c0c0abdd255731b485df34d0fb04728560faf4237d678ec286b33e",
+      "size": 260089
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00159.diff.png",
+      "hash": "16867b2276c0c0abdd255731b485df34d0fb04728560faf4237d678ec286b33e",
+      "size": 260089
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00160.diff.png",
+      "hash": "16867b2276c0c0abdd255731b485df34d0fb04728560faf4237d678ec286b33e",
+      "size": 260089
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00161.diff.png",
+      "hash": "16867b2276c0c0abdd255731b485df34d0fb04728560faf4237d678ec286b33e",
+      "size": 260089
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00180.diff.png",
+      "hash": "f460b8e57168c9a207b1b77d8c353b212bfdac86d60b6fb353adb4c1b76fdc91",
+      "size": 409076
+    },
+    {
+      "path": "assets/textures/outgame/campaign/mission/tex_campaign_mission_logo_00183.diff.png",
+      "hash": "f460b8e57168c9a207b1b77d8c353b212bfdac86d60b6fb353adb4c1b76fdc91",
+      "size": 409076
+    },
+    {
       "path": "assets/textures/outgame/campaign/mission/thumb/tex_campaign_mission_list_00000.diff.png",
       "hash": "9727a299d5084655304cdb396e796006c2d2dd0ce8e2939bc0f589c47a2ef59e",
       "size": 65465
