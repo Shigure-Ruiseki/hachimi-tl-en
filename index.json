@@ -21765,8 +21765,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "514d814a74c08f6683e60579f52bd64622c4df6d0ad29a22a8a4a682333ac307",
-      "size": 1068035
+      "hash": "617e20f542d99ff0b9df52e762a438dd222367f69a35aae4c39d573974375dd5",
+      "size": 1068032
     },
     {
       "path": "config.json",
@@ -21805,8 +21805,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "755a58a963e472f685f6fd91a661b5d9b94b11da0f75275b58df83d9050d9dbe",
-      "size": 3407013
+      "hash": "a99afc56cfe927bbd307d79c97ac3503a92e59eb165ca66a4ea15b98abe15153",
+      "size": 3415453
     }
   ]
 }
