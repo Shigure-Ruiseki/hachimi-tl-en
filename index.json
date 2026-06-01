@@ -840,8 +840,8 @@
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "9c7c5b87331ce6de3031f2569597d09bf9e33306af115b1790cf251c2f8762ba",
-      "size": 113170
+      "hash": "8e0af627068eb34ba2652a25bad21a465779a5c6a05236cd5e2b69e58b94116b",
+      "size": 313818
     },
     {
       "path": "assets/atlas/home/home.json",
@@ -21520,8 +21520,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "820eff0f99a97a81d517ae8e83721121c8d96afa6c981e5acab0eb8639c77ef6",
-      "size": 15176
+      "hash": "a23476d9a1a84e1468ada60f9ca40ae3577e8473385ccac1a2c5ac6f8a1e803b",
+      "size": 15175
     },
     {
       "path": "includes_android",
@@ -21535,8 +21535,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "5aa53e93d11763b99f64dc23547afb591375a4f54455c1faf240e6419b7137b8",
-      "size": 418449
+      "hash": "9968a19773ab03179cfe12d9ac5f91a0c0b00d2d592ea7519305e3d2f4204234",
+      "size": 418428
     },
     {
       "path": "race_jikkyo_comment_dict.json",
