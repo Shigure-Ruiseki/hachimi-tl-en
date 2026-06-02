@@ -2,12 +2,12 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Let's prepare further for training."
+            "name": "Tazuna Hayakawa",
+            "text": "Now we're moving along in our Career<n>\npreparations."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "But first — let's go visit the \nstatue of the Three Goddesses.",
+            "name": "Tazuna Hayakawa",
+            "text": "Let's head over to the Three Goddesses<n>\nstatue for a moment.",
             "color_text_info_list": [
                 "statue of the Three Goddesses"
             ]
