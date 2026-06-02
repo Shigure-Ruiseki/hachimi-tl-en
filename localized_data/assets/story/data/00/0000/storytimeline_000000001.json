@@ -2,40 +2,40 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
+            "name": "Tazuna Hayakawa",
             "text": "Oh, Trainer! Thank you for coming!"
         },
         {
             "name": "Director Akikawa",
-            "text": "Greetings! This is the Archive, where \nrecords of your trainees' careers are \nstored."
+            "text": "Greetings! This is the Umamusume\\mArchive, where\nrecords of your trainees'<n>careers are stored."
         },
         {
             "name": "Director Akikawa",
-            "text": "All the days you spent getting to know \neach other, the days you spent training…"
+            "text": "All the days you spend getting to know<n>each\nother, the days you spend<n>training..."
         },
         {
             "name": "Director Akikawa",
-            "text": "The more memories you make, the higher \nyour Archive level will become."
+            "text": "The more memories you make, the<n>higher your\nArchive level will become."
         },
         {
             "name": "Director Akikawa",
-            "text": "Raising this level comes with its \nown rewards, so you'd do well to \nwork your hardest!"
+            "text": "Raising this level comes with its own<n>rewards, so\nyou'd do well to work your<n>hardest!"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "As the overseer of the Archive, please\nlet me know if there's anything you need."
-        },
-        {
-            "name": "Director Akikawa",
-            "text": "Correct! All the rewards have been \nentrusted to Tazuna, so you'll be \ncollecting them from her. That's all \nfrom me!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Hehe, please work hard to make \nplenty of wonderful memories. ♪"
+            "name": "Tazuna Hayakawa",
+            "text": "As the overseer of the Archive, please<n>let me\nknow if there's anything you<n>need."
         },
         {
             "name": "Director Akikawa",
-            "text": "I'll also be waiting with great \nanticipation to see the amazing \nArchive you make. Ha-ha-ha!"
+            "text": "Correct! All the rewards have been<n>entrusted to\nTazuna, so you'll be<n>collecting them from her.\nThat's all from<n>me!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe, please work hard to make plenty<n>of\nwonderful memories. ♪"
+        },
+        {
+            "name": "Director Akikawa",
+            "text": "I'll also be waiting with great<n>anticipation to see\nthe amazing Archive<n>you make. Ha-ha-ha!"
         }
     ]
 }

@@ -3,27 +3,27 @@
     "text_block_list": [
         {
             "name": "Director Akikawa",
-            "text": "Greetings! You stand within \nthe venue of the Trainer Exam!"
+            "text": "Welcome! This is where you'll be taking<n>the\nTrainer Aptitude Test!"
         },
         {
             "name": "Director Akikawa",
-            "text": "The aim here is to bolster the training \ncapabilities you hold for your trainee! \nI urge you to take on this challenge!"
+            "text": "Our goal is to refine trainers' abilities,<n>enabling\nthem to instruct their trainees<n>more effectively. It\nis in your best<n>interest to fully commit to this\neffort!"
         },
         {
             "name": "Director Akikawa",
-            "text": "For now! The only thing to do is practice. \nYou are free to eliminate your weak points, \nor focus on maximizing your strengths."
+            "text": "There is a test for every racing distance.<n>So the\nknowledge and skills required in<n>each assessment\nwill differ <i>greatly.</i>"
         },
         {
             "name": "Director Akikawa",
-            "text": "Of course, I have arranged for rewards, \nso you are free to use them as motivation \nas well!"
+            "text": "That's not all! When you receive high<n>enough\nratings, you shall be permitted<n>to undertake more\nchallenging tests! No<n>skipping grades here, as I'm\nsure you're<n>aware."
         },
         {
             "name": "Director Akikawa",
-            "text": "Rouse yourself! Your hard work is sure \nto be a source of pride for your trainee!"
+            "text": "Once you manage to pass them all,<n>perhaps you'll\nbe ready for the most<n>special test of all..."
         },
         {
             "name": "Director Akikawa",
-            "text": "Encouragement! I sincerely wish \nfor the advancement of your skills! \nHa-ha-ha-ha!"
+            "text": "First things first! Get out there and apply<n>yourself!\nOvercome your weaknesses and<n>develop your\nstrengths."
         }
     ]
 }
