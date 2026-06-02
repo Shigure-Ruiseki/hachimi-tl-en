@@ -3,11 +3,11 @@
     "text_block_list": [
         {
             "name": "Tazuna Hayakawa",
-            "text": "Wow, you met some amazing<n>Umamusume!\nBut before we go off to<n>start training..."
+            "text": "Wow, you met some amazing\\nUmamusume! But before we go off to\\nstart training..."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Allow me to explain Support Card<n>\nscouting.",
+            "text": "Allow me to explain Support Card\\nscouting.",
             "color_text_info_list": [
                 "support card"
             ]

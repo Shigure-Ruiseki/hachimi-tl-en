@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Director Akikawa",
-            "text": "Splendid! It seems like you're steadily<n>collecting\ntrophies!"
+            "text": "Splendid! It seems like you're steadily\\ncollecting trophies!"
         },
         {
             "name": "Director Akikawa",
@@ -11,15 +11,15 @@
         },
         {
             "name": "Director Akikawa",
-            "text": "Many thanks! We're one step closer to<n>my\nboundless dream!"
+            "text": "Many thanks! We're one step closer to\\nmy boundless dream!"
         },
         {
             "name": "Director Akikawa",
-            "text": "However! The present amount of<n>trophies is not\nenough to fill this room<n>with brilliance!"
+            "text": "However! The present amount of\\ntrophies is not enough to fill this room\\nwith brilliance!"
         },
         {
             "name": "Director Akikawa",
-            "text": "Continue on! I'm counting on you to<n>keep up the\ngood work!"
+            "text": "Continue on! I'm counting on you to\\nkeep up the good work!"
         }
     ]
 }

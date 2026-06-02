@@ -3,15 +3,15 @@
     "text_block_list": [
         {
             "name": "Tazuna Hayakawa",
-            "text": "This is the entrance of Tracen Academy.<n>\nWe can also call it the Home screen."
+            "text": "This is the entrance of Tracen Academy.\\nWe can also call it the Home screen."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "From here, you can access various places<n>\nwithin Tracen Academy."
+            "text": "From here, you can access various places\\nwithin Tracen Academy."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "You can begin a Career playthrough for<n>\nany of your trainees here."
+            "text": "You can begin a Career playthrough for\\nany of your trainees here."
         }
     ]
 }
