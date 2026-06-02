@@ -1187,7 +1187,7 @@
     "Common0276": "Downloading",
     "Common0277": "Play on a stable connection for best results.",
     "Common0278": "x{0}",
-    "Common0279": "Obtained",
+    "Common0279": "$(scale 80)Obtained",
     "Common0280": "Level Uncap (Lvl {0})",
     "Common0282": "Select Potential Level",
     "Common0283": "$(nb)Uncap Grade",
