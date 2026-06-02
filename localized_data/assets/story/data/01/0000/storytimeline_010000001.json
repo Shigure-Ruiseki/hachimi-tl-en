@@ -10,7 +10,7 @@
         },
         {
             "name": "???",
-            "text": "Tokyo Racecourse is as lively as ever! Do\\nbe careful that you don't accidentally\\nget separated."
+            "text": "Tokyo Racecourse is as lively as ever! Do\nbe careful that you don't accidentally\nget separated."
         },
         {
             "name": "???",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "I'm Tazuna Hayakawa, secretary to the\\ndirector, and I'll be your tour guide\\ntoday!",
+            "text": "I'm Tazuna Hayakawa, secretary to the\ndirector, and I'll be your tour guide\ntoday!",
             "choice_data_list": [
                 "Thank you for bringing me on board."
             ],
@@ -30,30 +30,30 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Of course. ♪ I'm honored to be able to\\nmeet a new trainer with as bright a\\nfuture as yours!"
+            "text": "Of course. ♪ I'm honored to be able to\nmeet a new trainer with as bright a\nfuture as yours!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "In any case, we should get on with the\\nacademy tour. But, before that..."
+            "text": "In any case, we should get on with the\nacademy tour. But, before that..."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "A race is about to begin. Let's take a\\nlook!"
+            "text": "A race is about to begin. Let's take a\nlook!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Can you hear the thunderous cheers\\nfrom the crowd?"
+            "text": "Can you hear the thunderous cheers\nfrom the crowd?"
         },
         {
             "text": "Wooooo!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "People from all around the world adore\\nUmamusume racing!"
+            "text": "People from all around the world adore\nUmamusume racing!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "And with the fanfare, the curtains are\\nraised on this stage where you and your\\ntrainee will aim to achieve your dreams!"
+            "text": "And with the fanfare, the curtains are\nraised on this stage where you and your\ntrainee will aim to achieve your dreams!"
         }
     ]
 }
