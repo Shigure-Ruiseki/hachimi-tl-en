@@ -31,11 +31,11 @@
             "text": "Thank you! Well then, I'll get going!"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "Third race of the Selection Race will begin under blue skies, \na complete change from last night's rain. Who will be the one \nto show their ability and grab the ticket to debut!?"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "The field is tight, and the mood is more competitive than ever, \nas all the Uma Musume enter the gate. And now… they're off!"
         },
         {
@@ -79,7 +79,7 @@
             "text": "……… Ah!!!"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "Oh dang, just before the last turn, she slipped! \nKawakami Princess swayed to the outer lane."
         },
         {
@@ -107,11 +107,11 @@
             "text": "—～～～!!!!!!!"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "She held on! Kawakami Princess is back and running again. \nBut she's now far away from the leading pack!"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "Can she catch up? The gap is not closing. \nBut she's still running——",
             "choice_data_list": [
                 "Run! Don't give up on your ideals!",
@@ -123,7 +123,7 @@
             "text": "～～～～R, Roger thaaaaaaat… ！！！！"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "Oh, wow! Kawakami Princess is in incredible pursuit. \nShe is merging with the leading pack from the outer lane! \nThis is incredible!"
         },
         {
@@ -143,11 +143,11 @@
             "text": "Doryaaaaaaaaaaaaa～～～!!!!"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "Gooooooooooal!!"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "Complete combustion! Showing her indomitable fighting spirit, \nKawakami Princess! The winner, Kawakami Princess, \nnow crosses the finish line in first place!"
         },
         {

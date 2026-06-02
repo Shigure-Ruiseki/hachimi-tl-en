@@ -27,7 +27,7 @@
       "text": "——To be crowned the \"Strongest\"."
     },
     {
-      "name": "Commentator",
+      "name": "Caster",
       "text": "——『Now the strongest has arrived!!』"
     },
     {
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "Commentator",
+      "name": "Caster",
       "text": "Now, it begins. Autumn Selection Race! \nThe Uma Musume make their way to the gate!"
     },
     {
@@ -80,15 +80,15 @@
       "text": "Aah, how wonderful……! \nWhen this is over, I'll be the first to scout you……!"
     },
     {
-      "name": "Commentator",
+      "name": "Caster",
       "text": "Now the Uma Musume enter their gates. And——"
     },
     {
-      "name": "Commentator",
+      "name": "Caster",
       "text": "It starts……what's this, Duramente!?"
     },
     {
-      "name": "Commentator",
+      "name": "Caster",
       "text": "She's late to exit! She starts the race from behind!"
     },
     {
@@ -108,14 +108,14 @@
       "text": "From the outside in an instant……! \nWhat explosive power, like this she should be able to——"
     },
     {
-      "name": "Commentator",
+      "name": "Caster",
       "text": "But the leader refuses to yield! She runs! \nPulling away! Just like that, first place is——",
       "choice_data_list": [
         "(Eh……!?)"
       ]
     },
     {
-      "name": "Commentator",
+      "name": "Caster",
       "text": "Goaaaaaaaal!!"
     },
     {

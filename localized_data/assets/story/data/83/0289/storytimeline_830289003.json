@@ -195,7 +195,7 @@
             ]
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "The winner of\nthis memorable race was...",
             "choice_data_list": [
                 "FOREVER YOUNG!!"

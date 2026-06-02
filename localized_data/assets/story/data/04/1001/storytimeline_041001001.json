@@ -2,49 +2,52 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "text": "It's already been several days since my career as \na horse girl trainer in Tracen Academy began."
+            "name": "Monologue",
+            "text": "Ever since joining Tracen Academy as a<n>trainer, the days have been\nflying by."
         },
         {
-            "text": "Walking through a nearby shopping arcade \nas I went on a stroll, I came across-"
-        },
-        {
-            "name": "Special Week",
-            "text": "The last box's been brought in, granny!!"
-        },
-        {
-            "name": "Elder Greengrocer Lady",
-            "text": "My, what quick work…! Thank you, sweetie. Weren't they heavy?"
+            "name": "Monologue",
+            "text": "While out on a stroll, I find myself walking<n>around the nearby\nshopping district."
         },
         {
             "name": "Special Week",
-            "text": "Oh, not at all! Back in my homeland, Hokkaido, \nI always helped my Mom out with farm work!"
+            "text": "I'm done moving the last box, ma'am!"
+        },
+        {
+            "name": "Elderly Storekeeper",
+            "text": "Oh, my! Done already? I'm sorry, dear.<n>They were heavy, weren't\nthey?"
         },
         {
             "name": "Special Week",
-            "text": "Boxes of vegetables can bring it on!"
+            "text": "Not at all! I'm used to doing all sorts of<n>heavy lifting back in\nHokkaido with my<n>mom! I had to help around the family farm!"
         },
         {
             "name": "Special Week",
-            "text": "Enough about me. Does your back still hurt, granny?"
-        },
-        {
-            "name": "Elder Greengrocer Lady",
-            "text": "Not anymore. It's gotten a whole lot better, thanks to you."
-        },
-        {
-            "name": "Elder Greengrocer Lady",
-            "text": "That aside, aren't you a Tracen student? I'm sorry I interrupted \nyour training. Thank you very much for voicing your concern."
+            "text": "Carrying a few boxes of veggies is nothing!"
         },
         {
             "name": "Special Week",
-            "text": "Don't mention it! Now then, I'll head back \nto campus! Take good care of your back~!"
+            "text": "But enough about that! How's your hip,<n>ma'am?"
         },
         {
-            "name": "Elder Greengrocer Lady",
-            "text": "Oh dear… She took off the other way… I \nwonder if she'll make it back alright…"
+            "name": "Elderly Storekeeper",
+            "text": "Oh, I feel much better thanks to you."
         },
         {
-            "text": "…Concerned, I went after the girl."
+            "name": "Elderly Storekeeper",
+            "text": "You're a student at Tracen Academy,<n>right? I'm so sorry to bother you\nin the<n>middle of training. Thank you so much for<n>your help."
+        },
+        {
+            "name": "Special Week",
+            "text": "No problem! Anyway, I gotta head back<n>now! Take care!"
+        },
+        {
+            "name": "Elderly Storekeeper",
+            "text": "Hm? She ran off in the complete opposite<n>direction of the academy...\nWill she be all<n>right?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Worried that Special Week might be lost, I<n>decide to follow her."
         },
         {
             "name": "Special Week",
@@ -52,207 +55,207 @@
         },
         {
             "name": "Special Week",
-            "text": "Where in the world am I!?"
+            "text": "Where even am I?!"
         },
         {
             "name": "Special Week",
-            "text": "W-W-W-W-What now!? It's almost curfew for my dorm…!",
+            "text": "W-w-w-w-what do I do?! I'm gonna miss<n>the dorm curfew!",
             "choice_data_list": [
-                "Going back to Tracen Academy?",
-                "Returning to Tracen Academy?"
+                "Would you like to get back to TracenAcademy?",
+                "Would you like to get back to TracenAcademy?"
             ]
         },
         {
             "name": "Special Week",
-            "text": "Huh!? Uhh, who might you be…?",
+            "text": "Huh?! Um, you are...?",
             "choice_data_list": [
-                "I'm a trainer. I'll lead you back.",
-                "I'm a trainer. I'll lead you back."
+                "I'm a trainer. I'll show you the way back.",
+                "I'm a trainer. I'll show you the way back."
             ]
         },
         {
             "name": "Special Week",
-            "text": "You will!? Thank you so much!"
+            "text": "Really?! Thank you so much!"
         },
         {
             "name": "Special Week",
-            "text": "You're a lifesaver~ ~ ~! I wouldn't have made \nit back in time if it weren't for you!"
+            "text": "Thanks a bunch! We made it back just in<n>time!"
         },
         {
             "name": "Special Week",
-            "text": "Ehehe, I got down to training on my own since I have an important \nrace tomorrow, but I might've gotten too absorbed in it…"
+            "text": "Ehehe, I have a big race tomorrow, so I<n>thought I'd spend some of my\ntime off<n>training. I might've gone a bit too far,<n>though."
         },
         {
             "name": "Special Week",
-            "text": "Still, I've only just moved in from the countryside, \nso I'm anything but accustomed to the metropolitan \nstreets. You were a great help!"
+            "text": "I just moved here from the countryside, so<n>I'm still not used to finding\nmy way around<n>the city... You really did come at the<n>perfect time!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Ah, Spe-chan! There you are…! I was worried about \nyou. You still weren't back after curfew."
+            "text": "Ah, Spe! You're back! The school gates<n>were about to close for the\nday, and you<n>still weren't here, so I got a bit worried..."
         },
         {
             "name": "Special Week",
-            "text": "Ahh, Suzuka-san! I'm sorry to have worried you…!"
+            "text": "Oh, Suzuka! I'm sorry for making you<n>worry!"
         },
         {
             "name": "Special Week",
-            "text": "Uhh, well then, Trainer-san! Thanks again for \nyour help! I'll be taking my leave now."
+            "text": "Um... all righty then. Trainer, thanks again<n>for bringing me back in one\npiece! I gotta<n>go now."
         },
         {
             "name": "Special Week",
-            "text": "See you ~!!"
+            "text": "See ya!"
         },
         {
-            "text": "Special Week bade goodbye with a smile, and Silence \nSuzuka greeted me with a slight nod, as the two headed \nback to the Ritto Dormitory together."
+            "text": "With a smile on her face, Special Week<n>heads back to the Ritto\ndormitory. Silence<n>Suzuka bows lightly towards me before<n>following\nbehind her."
         },
         {
-            "text": "The next morning-"
-        },
-        {
-            "name": "Tazuna Hayakawa",
-            "text": "Good morning, Trainer-san! The \"Selection \nRaces\" are finally commencing!"
+            "text": "The next morning..."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "When a horse girl goes through a phase when her running \nabilities begin to blossom, they become eligible \nto participate in this quarterly event!"
+            "text": "Good morning, Trainer! It's finally time for<n>the tryout races."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "All participating horse girls devote themselves to showing off \ntheir strengths, in hopes of being scouted by Trainers."
+            "text": "These races happen every two months<n>starting from June for a grand\ntotal of four<n>times per year. All the up-and-coming<n>students gather to\nshow off their abilities,<n>and prove to the world that they're<n>race-ready."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "We will no doubt witness another heated \nseries of races this time around!",
+            "text": "Every student here will be gunning to<n>prove their skills to the best\ntrainers in<n>hopes of getting scouted!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I'm sure today's races will be just as<n>exciting as ever.",
             "choice_data_list": [
-                "I can't wait!"
+                "Looking forward to it!"
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Likewise!!"
+            "text": "Please do!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "-Trainers are the pillars of horse girls. Sometimes supporting, \nsometimes shepherding, trainers all root for the girls as they \nwalk the lasting path to glory… And that is your role."
+            "text": "A trainer is meant to serve as a racer's<n>guide—to support them when\ntimes are<n>tough, to lead them down the right path,<n>and to seek glory\ntogether."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "I sincerely wish you may meet a partner worthy to entrust."
+            "text": "I hope you meet someone whom you can<n>share a mutual bond of trust."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "With that said, I wish you a good day!!"
+            "text": "But in any case, good luck!"
         },
         {
-            "text": "Thus kicked off the Selection Races, in which participating \nhorse girls of great might drew the attention of \ntrainers, one after another."
+            "text": "The tryouts begin shortly after, and the<n>many trainers in attendance\ngaze upon the<n>rows of students in search of a runner with<n>potential."
         },
         {
             "name": "El Condor Pasa",
-            "text": "I, am, Number, One!! The Condor soars \nhigh, to the boundless skies!!"
+            "text": "Yo soy el número uno! This condor is<n>gonna soar to the edge of the\nsky!"
         },
         {
             "name": "El Condor Pasa",
-            "text": "Now! Which Trainer would like to do \nthe honors and pair up with me!?"
+            "text": "Now then! Which lucky trainer is willing to<n>stand by my side? Any\ntakers?"
         },
         {
-            "text": "But one of them outshined the rest, with her striking run-!"
+            "text": "Although every student running today is<n>exceptionally skilled, one in\nparticular<n>stands out—her running is immaculate!"
         },
         {
-            "name": "Commentator",
-            "text": "Heading down the home stretch, the pack has just passed the 4th \ncorner! Under the spotlight runs the transfer student Special \nWeek, at 3rd place, and 2 horse lengths behind the lead!"
-        },
-        {
-            "name": "Special Week",
-            "text": "…Now!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Here comes Special Week, making a ferocious spurt towards the \nfront, and swiftly pulling ahead!"
+            "name": "Caster",
+            "text": "We're at the race's last stretch! One final<n>corner! At the center of\neverybody's<n>attention is Special Week! She's in third<n>place, but it'll\nbe a close one!"
         },
         {
             "name": "Special Week",
-            "text": "I'm not done yet!!…Haaaaaaahhh-!!"
+            "text": "...Now!"
         },
         {
-            "name": "Commentator",
-            "text": "Pulling further and further away from the 2nd runner, Special \nWeek, coming in first- zooms past the finish line!!"
-        },
-        {
-            "name": "Special Week",
-            "text": "Pant, pant… I did it, first place…!! With this-"
+            "name": "Caster",
+            "text": "Special Week suddenly pulls ahead! She's<n>weaving her way to the\nvery front! She<n>takes the lead!"
         },
         {
             "name": "Special Week",
-            "text": "Huh? You're the trainer yesterday! Did you come see me run!!?",
+            "text": "I'm not done yet! Hraaaaah!"
+        },
+        {
+            "name": "Caster",
+            "text": "Special Week widens her lead! She's<n>ensuring the win! She takes first\nplace!"
+        },
+        {
+            "name": "Special Week",
+            "text": "<i>Pant... pant...</i> I did it! I won! Now I—"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oh! You're the person from yesterday! You<n>came to watch the race!",
             "choice_data_list": [
-                "That was spectacular!",
-                "That was spectacular!"
+                "You were amazing!",
+                "You were amazing!"
             ]
         },
         {
             "name": "Special Week",
-            "text": "Ehehe! Thank you! I'm glad I get to demonstrate \nmy capabilities to you."
+            "text": "Ehehe... Thanks! I hope I managed to show<n>you what I'm capable of!"
         },
         {
             "name": "Special Week",
-            "text": "Now that I'm here in Tracen Academy, I will \nmake my debut, and realize my dreams…!",
+            "text": "I came to Tracen Academy to achieve my<n>dream, and it all starts with\nmy debut... I'll<n>make sure it happens, no matter what!",
             "choice_data_list": [
-                "Your dreams?",
-                "Your dreams?"
+                "Your dream?",
+                "Your dream?"
             ]
         },
         {
             "name": "Special Week",
-            "text": "Yes!"
+            "text": "Yep!"
         },
         {
             "name": "Special Week",
-            "text": "The \"Twinkle Series\", the pinnacle of horse girl races, that only \nthe selected ones get to take part in…"
+            "text": "I wanna run in the most prestigious races,<n>where only the best of the\nbest racers are<n>allowed—the Twinkle Series!"
         },
         {
             "name": "Special Week",
-            "text": "Atop that grand stage, I want to run and win lots of races. I \nwant to become unmatchably strong! And then-"
+            "text": "So I have to run! I have to win! I have to<n>become strong enough that I\ndon't ever<n>lose! If I do that, then—"
         },
         {
             "name": "Special Week",
-            "text": "Someday, I'll become Japan's No. 1 horse girl! And I'll have my \nMoms be witness to the peak of my glory!!"
+            "text": "I'll become the best racer in all of<n>Japan—for me, for Mom and Mama,\nand<n>for everybody else back home!"
         },
         {
             "name": "Special Week",
-            "text": "That's my dream!!"
+            "text": "That's my dream!"
         },
         {
-            "text": "With earnest eyes, Special Week declared her ambitious dream!"
+            "text": "Special Week gazes straight at me with an<n>intense look of\ndetermination."
         },
         {
-            "text": "Through her sparkling eyes, it was as if the dazzling future \nshe'll one day reach was coming into view…!"
+            "text": "It's as if just beyond those glimmering<n>eyes, she can see the shining\nfuture she<n>dreams of gazing back at her."
         },
         {
             "name": "Special Week",
-            "text": "Huh? U-Uhh… Helloooo? Sorry, did I \njust blurt out something weird!?",
+            "text": "Oh... U-um... Are you still with me? Did I<n>say something weird? Sorry\nabout that...",
             "choice_data_list": [
-                "I want to support you in your dreams!",
-                "I want to support your dreams!"
+                "I want to help you with your dream!",
+                "I want to help you with your dream!"
             ]
         },
         {
             "name": "Special Week",
-            "text": "Wha?",
+            "text": "Huh?",
             "choice_data_list": [
-                "Train under me!",
-                "Train under me!"
+                "Please, let me be your trainer!",
+                "Please, let me be your trainer!"
             ]
         },
         {
             "name": "Special Week",
-            "text": "N-No way, I'm being so scouted!? M-May I!?"
+            "text": "Wait... Are you scouting me?! For real?!"
         },
         {
             "name": "Special Week",
-            "text": "Yes, gladly…!! I hope we get along well, Trainer-san!!"
+            "text": "Yes, of course! I'd love for you to be my<n>Trainer!"
         },
         {
-            "text": "And thus, I became in charge of training Special Week!"
+            "text": "And with that, I become Special Week's<n>trainer."
         }
     ]
 }

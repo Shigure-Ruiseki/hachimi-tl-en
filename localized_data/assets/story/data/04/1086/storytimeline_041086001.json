@@ -5,7 +5,7 @@
             "text": "I love races."
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "――And the lead changes! It's Symboli Rudolf! She's \nahead by a length! Will this be her 8th consecutive \nwin, obtaining the Triple Crown while undefeated!?",
             "choice_data_list": [
                 "Go……do your best……!"
@@ -19,7 +19,7 @@
             "text": "Huu……Haaaaaaaaaaaa!!!!"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "――Symboli Rudolf……crosses the goal! An undefeated \nTriple Crown Uma Musume, now! Right here, has been born!"
         },
         {
