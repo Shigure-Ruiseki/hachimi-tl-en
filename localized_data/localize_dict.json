@@ -6819,7 +6819,7 @@
     "StoryEvent0075": "View {0}, Episode {1}",
     "StoryEvent0076": "It is possible to unlock an Event Story.",
     "StoryEvent0077": "Spin Limit Reached",
-    "StoryEvent0078": "{1} spins have been completed for card {0}! Further spins will guarantee <color=#ff911c>unacquired prize derby rewards</color>.",
+    "StoryEvent0078": "{1} spins have been completed for card {0}!\nFurther spins will guarantee\n<color=#ff911c>unacquired prize derby rewards</color>.",
     "StoryEvent0079": "$(nb)Preview Voice Playback",
     "StoryEvent0080": "Event Info",
     "StoryEvent0081": "Preview",
