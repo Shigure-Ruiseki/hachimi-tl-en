@@ -2,34 +2,34 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Trainer-san, do you know about the \nstatue of the Three Goddesses?"
+            "name": "Tazuna Hayakawa",
+            "text": "Trainer, are you familiar with the Three<n>\nGoddesses statue?"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "The Three Goddesses… there's a legend \nthat these three are the original trainees."
+            "name": "Tazuna Hayakawa",
+            "text": "The Three Goddesses... The progenitors<n>\nof all Umamusume, according to legend."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "They watch over the trainees, protecting \nand guiding them. Just as gods would."
+            "name": "Tazuna Hayakawa",
+            "text": "They are also described as deities who<n>\nwatch over and guide the Umamusume."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Per tradition, the students of Tracen \nAcademy entrust their thoughts and \nwishes to this statue."
+            "name": "Tazuna Hayakawa",
+            "text": "Traditionally, the students of Tracen<n>\nAcademy come before this statue to<n>pass\non their ambition."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "The feelings they had drawn in their dreams, \nthe image of their trajectory to achieve it… \nthey entrust those thoughts to this statue—"
+            "name": "Tazuna Hayakawa",
+            "text": "The days spent running toward their<n>\ndreams, the emotions experienced on<n>\ntheir journeys... All of this is entrusted to<n>\nthis statue."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "The girls who are about to start their races \nwill turn these feelings into strength in \nfront of this statue."
+            "name": "Tazuna Hayakawa",
+            "text": "Future generations of runners come here<n>\nto inherit this ambition and, if they are<n>so\nlucky, turn it into power."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Sometimes, other trainees inherit \nthese continuously spun feelings… \nIt's very mysterious!",
+            "name": "Tazuna Hayakawa",
+            "text": "And so the legacy of one runner is<n>passed\non to the next, and the next... It's<n>quite\nmysterious, isn't it?",
             "color_text_info_list": [
-                "inherit"
+                "legacy"
             ]
         }
     ]

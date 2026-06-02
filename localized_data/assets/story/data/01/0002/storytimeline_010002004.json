@@ -2,12 +2,12 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Well, now we have both our trainable horse \ngirls and our support cards!"
+            "name": "Tazuna Hayakawa",
+            "text": "You've scouted some Trainee<n>Umamusume\nand Support Cards!"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "It's now time for you to start your days with \nyour assigned trainee!"
+            "name": "Tazuna Hayakawa",
+            "text": "Now that we have that out of the way,<n>\nlet's begin your everyday life with your<n>\ntrainee Umamusume."
         }
     ]
 }

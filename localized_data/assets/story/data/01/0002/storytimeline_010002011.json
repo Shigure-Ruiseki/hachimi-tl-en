@@ -2,23 +2,23 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "For inheritance, their “compatibility” is \ndetermined by the relationship between \nthe trained trainee and her successors.",
+            "name": "Tazuna Hayakawa",
+            "text": "The two selected Legacy Umamusume<n>and\nyour Trainee Umamusume have an<n>affinity\nlevel determined by their<n>relationship.",
             "color_text_info_list": [
-                "compatibility"
+                "affinity"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "If they have good compatibility, \nyou're a little more likely to have \ngood things happen to them!",
+            "name": "Tazuna Hayakawa",
+            "text": "It's said that if they share a good<n>affinity,\nit becomes a little more likely<n>for\nsomething nice to happen.",
             "color_text_info_list": [
-                "you're a little more likely to have",
-                "good things"
+                "something nice",
+                "a little more likely"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "You may want to keep this in mind as a \nreference for future combinations! ♪"
+            "name": "Tazuna Hayakawa",
+            "text": "This might be good to remember when<n>\nyou're making arrangements in the<n>\nfuture. ♪"
         }
     ]
 }

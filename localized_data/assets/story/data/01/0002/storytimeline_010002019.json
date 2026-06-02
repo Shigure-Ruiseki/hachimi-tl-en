@@ -2,28 +2,28 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Trainees each have their own aptitudes \nfor <i>distances</i> and <i>track types</i>.",
+            "name": "Tazuna Hayakawa",
+            "text": "Every Umamusume excels in particular<n>\ndistances and tracks.",
             "color_text_info_list": [
                 "distances",
-                "track types"
+                "tracks"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Make sure you pay attention to that \nwhen creating your teams!",
+            "name": "Tazuna Hayakawa",
+            "text": "The trick is to form teams based on the<n>\naptitudes of your racers!",
             "color_text_info_list": [
-                "pay attention",
-                "creating your teams"
+                "form teams based on the",
+                "aptitudes of your racers"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Also, as you field stronger and stronger \ntrainees, your team rank will increase."
+            "name": "Tazuna Hayakawa",
+            "text": "Also note that, as you go, adding more<n>\nhighly skilled Veteran Umamusume to<n>\nyour team will raise your Team Rank."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Raise strong girls, and raise your team rank \nto the highest tiers! That's where you get to \nshow off your skills isn't it, trainer♪"
+            "name": "Tazuna Hayakawa",
+            "text": "Let's continue training strong runners to<n>\nraise your Team Rank higher and higher!<n>\nIt's a great way to show your ability. ♪"
         }
     ]
 }

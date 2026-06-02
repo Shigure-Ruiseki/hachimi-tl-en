@@ -2,12 +2,12 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Next, let's choose the trainee that you \nwill be in charge of!"
+            "name": "Tazuna Hayakawa",
+            "text": "Next, choose an Umamusume to train!"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Since we're practicing this time, please \nchoose the trainee you just obtained."
+            "name": "Tazuna Hayakawa",
+            "text": "Since this time is just for practice, please<n>\nselect one of the Trainee Umamusume<n>you\nscouted just now."
         }
     ]
 }

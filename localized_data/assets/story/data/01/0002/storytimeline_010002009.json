@@ -2,33 +2,33 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "The trainees who entrust their feelings \nto the training trainee are known \nas successor trainees.",
+            "name": "Tazuna Hayakawa",
+            "text": "A decorated runner who passes on her<n>\nambition to your trainee is called a<n>\nVeteran Umamusume.",
             "color_text_info_list": [
-                "successor trainees"
+                "Veteran Umamusume"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Once you have completed your training and \nhad your trainee registered in the \nHall of Fame, you will be able to select her \nas a successor.",
+            "name": "Tazuna Hayakawa",
+            "text": "Once a runner has completed her<n>Career,\nshe can be registered as a<n>Veteran\nUmamusume and chosen as a<n>Legacy.",
             "color_text_info_list": [
-                "registered in the \nHall of Fame"
+                "registered as a Veteran Umamusume and chosen as a Legacy"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Let's choose a successor trainee."
+            "name": "Tazuna Hayakawa",
+            "text": "Now then, go ahead and choose your<n>\nLegacies."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Depending on the trainee's factors and \nfeelings, you can receive various benefits, \nsuch as improving starting stats and \nacquiring new skills.",
+            "name": "Tazuna Hayakawa",
+            "text": "Legacies can pass on Sparks of<n>\nInspiration, which grant your trainee<n>\nattribute boosts and skill hints, among<n>\nother benefits.",
             "color_text_info_list": [
-                "factors"
+                "Sparks of Inspiration"
             ]
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Even if you choose her as a successor, \nyou won't lose that trainee, \nso don't be worried!"
+            "name": "Tazuna Hayakawa",
+            "text": "And don't worry, Legacies can inspire<n>new\ntrainees as many times as you like!"
         }
     ]
 }

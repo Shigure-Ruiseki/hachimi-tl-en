@@ -2,19 +2,19 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Skills are an important factor to winning \nraces. Adding skills doesn't consume your \nturns, so make sure to check and \nlearn them often!",
+            "name": "Tazuna Hayakawa",
+            "text": "Skills are of great importance to win<n>\nraces. Using the skill menu does not<n>\nexpend a turn, so be sure to learn as<n>many\nas you can!",
             "color_text_info_list": [
-                "important factor to winning"
+                "Skills are of great importance to win races"
             ]
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "Agreed. If you don't use the skill \npoints that you've gained, they'll \nbe a complete waste!"
+            "name": "Director Akikawa",
+            "text": "I concur. Hoarding your skill points is a<n>\ntragic waste of potential!"
         },
         {
-            "name": "Chairwoman Akikawa",
-            "text": "By all means! Choose the skills that match \nyour trainee's abilities and the \nrequirements of the races she runs!"
+            "name": "Director Akikawa",
+            "text": "Of course! You should select skills that<n>\nbest match your trainee's abilities and<n>the\nraces she plans to run in!"
         }
     ]
 }

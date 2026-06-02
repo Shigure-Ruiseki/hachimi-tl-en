@@ -2,18 +2,18 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Hayakawa Tazuna",
-            "text": "There will certianly be plenty of races \nlined up, so be proactive in entering them!"
+            "name": "Tazuna Hayakawa",
+            "text": "There are plans to hold many more races<n>\nfrom here on, so be sure to participate<n>as\nmuch as you can!"
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "After training a trainee, you can enter her \nin races. And with the rewards from those, \nyou can strenghten your girls or supports—"
+            "name": "Tazuna Hayakawa",
+            "text": "After completing a Career playthrough,<n>\ncompete in races. Use the rewards you<n>\ngain through racing to power up your<n>\nTrainee Umamusume and Support Cards."
         },
         {
-            "name": "Hayakawa Tazuna",
-            "text": "Training and racing, this flow is \nthe key to raising strong trainees! \nRemember that well!",
+            "name": "Tazuna Hayakawa",
+            "text": "Be sure to remember that Career<n>\nplaythroughs and racing are integral to<n>\nmaking your trainees stronger.",
             "color_text_info_list": [
-                "Training and racing"
+                "Career playthroughs and racing are integral to making your trainees stronger"
             ]
         }
     ]
