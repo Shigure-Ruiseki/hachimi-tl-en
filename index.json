@@ -21795,13 +21795,13 @@
     },
     {
       "path": "race_jikkyo_comment_dict.json",
-      "hash": "bb39f609e8788c41779eca75433dbc5bc3f68669eea8dabb8c8c41fff403ff46",
-      "size": 23997
+      "hash": "8a72eef7d2be66eac1c26948e47319adb6da4114783a3a9e8a45131000bf08b8",
+      "size": 24724
     },
     {
       "path": "race_jikkyo_message_dict.json",
-      "hash": "d4fb8d073284cb9b5c7d7b379fd5705fddc9f79ef761e8abc2bb226050afccc3",
-      "size": 192311
+      "hash": "db46cb350a552a8bc2adbbbcacb63c576a7a132198b1b5104ddd645e0f08ed7e",
+      "size": 263064
     },
     {
       "path": "text_data_dict.json",
