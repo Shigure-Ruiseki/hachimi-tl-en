@@ -3,15 +3,15 @@
     "text_block_list": [
         {
             "name": "Director Akikawa",
-            "text": "Splendid! You reached your goal! Well<n>\ndone! Bravo!"
+            "text": "Splendid! You reached your goal! Well\\ndone! Bravo!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "The goals that you're after will differ<n>\ndepending on the Umamusume."
+            "text": "The goals that you're after will differ\\ndepending on the Umamusume."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Please help your trainees reach their<n>goals\nduring their Careers!"
+            "text": "Please help your trainees reach their\\ngoals during their Careers!"
         }
     ]
 }

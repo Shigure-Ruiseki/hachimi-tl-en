@@ -3,11 +3,11 @@
     "text_block_list": [
         {
             "name": "Monologue",
-            "text": "Ever since joining Tracen Academy as a<n>trainer, the days have been\nflying by."
+            "text": "Ever since joining Tracen Academy as a\\ntrainer, the days have been flying by."
         },
         {
             "name": "Monologue",
-            "text": "While out on a stroll, I find myself walking<n>around the nearby\nshopping district."
+            "text": "While out on a stroll, I find myself walking\\naround the nearby shopping district."
         },
         {
             "name": "Special Week",
@@ -15,11 +15,11 @@
         },
         {
             "name": "Elderly Storekeeper",
-            "text": "Oh, my! Done already? I'm sorry, dear.<n>They were heavy, weren't\nthey?"
+            "text": "Oh, my! Done already? I'm sorry, dear.\\nThey were heavy, weren't they?"
         },
         {
             "name": "Special Week",
-            "text": "Not at all! I'm used to doing all sorts of<n>heavy lifting back in\nHokkaido with my<n>mom! I had to help around the family farm!"
+            "text": "Not at all! I'm used to doing all sorts of\\nheavy lifting back in Hokkaido with my\\nmom! I had to help around the family farm!"
         },
         {
             "name": "Special Week",
@@ -27,7 +27,7 @@
         },
         {
             "name": "Special Week",
-            "text": "But enough about that! How's your hip,<n>ma'am?"
+            "text": "But enough about that! How's your hip,\\nma'am?"
         },
         {
             "name": "Elderly Storekeeper",
@@ -35,23 +35,23 @@
         },
         {
             "name": "Elderly Storekeeper",
-            "text": "You're a student at Tracen Academy,<n>right? I'm so sorry to bother you\nin the<n>middle of training. Thank you so much for<n>your help."
+            "text": "You're a student at Tracen Academy,\\nright? I'm so sorry to bother you in the\\nmiddle of training. Thank you so much for\\nyour help."
         },
         {
             "name": "Special Week",
-            "text": "No problem! Anyway, I gotta head back<n>now! Take care!"
+            "text": "No problem! Anyway, I gotta head back\\nnow! Take care!"
         },
         {
             "name": "Elderly Storekeeper",
-            "text": "Hm? She ran off in the complete opposite<n>direction of the academy...\nWill she be all<n>right?"
+            "text": "Hm? She ran off in the complete opposite\\ndirection of the academy... Will she be all\\nright?"
         },
         {
             "name": "Monologue",
-            "text": "Worried that Special Week might be lost, I<n>decide to follow her."
+            "text": "Worried that Special Week might be lost, I\\ndecide to follow her."
         },
         {
             "name": "Special Week",
-            "text": "Phew! It's the first time I've ran this far out. This really was \na nice outing for a change~…Wait!!!"
+            "text": "Phew! It's the first time I've ran this far out. This really was  a nice outing for a change~…Wait!!!"
         },
         {
             "name": "Special Week",
@@ -59,7 +59,7 @@
         },
         {
             "name": "Special Week",
-            "text": "W-w-w-w-what do I do?! I'm gonna miss<n>the dorm curfew!",
+            "text": "W-w-w-w-what do I do?! I'm gonna miss\\nthe dorm curfew!",
             "choice_data_list": [
                 "Would you like to get back to TracenAcademy?",
                 "Would you like to get back to TracenAcademy?"
@@ -79,53 +79,53 @@
         },
         {
             "name": "Special Week",
-            "text": "Thanks a bunch! We made it back just in<n>time!"
+            "text": "Thanks a bunch! We made it back just in\\ntime!"
         },
         {
             "name": "Special Week",
-            "text": "Ehehe, I have a big race tomorrow, so I<n>thought I'd spend some of my\ntime off<n>training. I might've gone a bit too far,<n>though."
+            "text": "Ehehe, I have a big race tomorrow, so I\\nthought I'd spend some of my time off\\ntraining. I might've gone a bit too far,\\nthough."
         },
         {
             "name": "Special Week",
-            "text": "I just moved here from the countryside, so<n>I'm still not used to finding\nmy way around<n>the city... You really did come at the<n>perfect time!"
+            "text": "I just moved here from the countryside, so\\nI'm still not used to finding my way around\\nthe city... You really did come at the\\nperfect time!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Ah, Spe! You're back! The school gates<n>were about to close for the\nday, and you<n>still weren't here, so I got a bit worried..."
+            "text": "Ah, Spe! You're back! The school gates\\nwere about to close for the day, and you\\nstill weren't here, so I got a bit worried..."
         },
         {
             "name": "Special Week",
-            "text": "Oh, Suzuka! I'm sorry for making you<n>worry!"
+            "text": "Oh, Suzuka! I'm sorry for making you\\nworry!"
         },
         {
             "name": "Special Week",
-            "text": "Um... all righty then. Trainer, thanks again<n>for bringing me back in one\npiece! I gotta<n>go now."
+            "text": "Um... all righty then. Trainer, thanks again\\nfor bringing me back in one piece! I gotta\\ngo now."
         },
         {
             "name": "Special Week",
             "text": "See ya!"
         },
         {
-            "text": "With a smile on her face, Special Week<n>heads back to the Ritto\ndormitory. Silence<n>Suzuka bows lightly towards me before<n>following\nbehind her."
+            "text": "With a smile on her face, Special Week\\nheads back to the Ritto dormitory. Silence\\nSuzuka bows lightly towards me before\\nfollowing behind her."
         },
         {
             "text": "The next morning..."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Good morning, Trainer! It's finally time for<n>the tryout races."
+            "text": "Good morning, Trainer! It's finally time for\\nthe tryout races."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "These races happen every two months<n>starting from June for a grand\ntotal of four<n>times per year. All the up-and-coming<n>students gather to\nshow off their abilities,<n>and prove to the world that they're<n>race-ready."
+            "text": "These races happen every two months\\nstarting from June for a grand total of four\\ntimes per year. All the up-and-coming\\nstudents gather to show off their abilities,\\nand prove to the world that they're\\nrace-ready."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Every student here will be gunning to<n>prove their skills to the best\ntrainers in<n>hopes of getting scouted!"
+            "text": "Every student here will be gunning to\\nprove their skills to the best trainers in\\nhopes of getting scouted!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "I'm sure today's races will be just as<n>exciting as ever.",
+            "text": "I'm sure today's races will be just as\\nexciting as ever.",
             "choice_data_list": [
                 "Looking forward to it!"
             ]
@@ -136,33 +136,33 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "A trainer is meant to serve as a racer's<n>guide—to support them when\ntimes are<n>tough, to lead them down the right path,<n>and to seek glory\ntogether."
+            "text": "A trainer is meant to serve as a racer's\\nguide—to support them when times are\\ntough, to lead them down the right path,\\nand to seek glory together."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "I hope you meet someone whom you can<n>share a mutual bond of trust."
+            "text": "I hope you meet someone whom you can\\nshare a mutual bond of trust."
         },
         {
             "name": "Tazuna Hayakawa",
             "text": "But in any case, good luck!"
         },
         {
-            "text": "The tryouts begin shortly after, and the<n>many trainers in attendance\ngaze upon the<n>rows of students in search of a runner with<n>potential."
+            "text": "The tryouts begin shortly after, and the\\nmany trainers in attendance gaze upon the\\nrows of students in search of a runner with\\npotential."
         },
         {
             "name": "El Condor Pasa",
-            "text": "Yo soy el número uno! This condor is<n>gonna soar to the edge of the\nsky!"
+            "text": "Yo soy el número uno! This condor is\\ngonna soar to the edge of the sky!"
         },
         {
             "name": "El Condor Pasa",
-            "text": "Now then! Which lucky trainer is willing to<n>stand by my side? Any\ntakers?"
+            "text": "Now then! Which lucky trainer is willing to\\nstand by my side? Any takers?"
         },
         {
-            "text": "Although every student running today is<n>exceptionally skilled, one in\nparticular<n>stands out—her running is immaculate!"
+            "text": "Although every student running today is\\nexceptionally skilled, one in particular\\nstands out—her running is immaculate!"
         },
         {
             "name": "Caster",
-            "text": "We're at the race's last stretch! One final<n>corner! At the center of\neverybody's<n>attention is Special Week! She's in third<n>place, but it'll\nbe a close one!"
+            "text": "We're at the race's last stretch! One final\\ncorner! At the center of everybody's\\nattention is Special Week! She's in third\\nplace, but it'll be a close one!"
         },
         {
             "name": "Special Week",
@@ -170,7 +170,7 @@
         },
         {
             "name": "Caster",
-            "text": "Special Week suddenly pulls ahead! She's<n>weaving her way to the\nvery front! She<n>takes the lead!"
+            "text": "Special Week suddenly pulls ahead! She's\\nweaving her way to the very front! She\\ntakes the lead!"
         },
         {
             "name": "Special Week",
@@ -178,7 +178,7 @@
         },
         {
             "name": "Caster",
-            "text": "Special Week widens her lead! She's<n>ensuring the win! She takes first\nplace!"
+            "text": "Special Week widens her lead! She's\\nensuring the win! She takes first place!"
         },
         {
             "name": "Special Week",
@@ -186,7 +186,7 @@
         },
         {
             "name": "Special Week",
-            "text": "Oh! You're the person from yesterday! You<n>came to watch the race!",
+            "text": "Oh! You're the person from yesterday! You\\ncame to watch the race!",
             "choice_data_list": [
                 "You were amazing!",
                 "You were amazing!"
@@ -194,11 +194,11 @@
         },
         {
             "name": "Special Week",
-            "text": "Ehehe... Thanks! I hope I managed to show<n>you what I'm capable of!"
+            "text": "Ehehe... Thanks! I hope I managed to show\\nyou what I'm capable of!"
         },
         {
             "name": "Special Week",
-            "text": "I came to Tracen Academy to achieve my<n>dream, and it all starts with\nmy debut... I'll<n>make sure it happens, no matter what!",
+            "text": "I came to Tracen Academy to achieve my\\ndream, and it all starts with my debut... I'll\\nmake sure it happens, no matter what!",
             "choice_data_list": [
                 "Your dream?",
                 "Your dream?"
@@ -210,29 +210,29 @@
         },
         {
             "name": "Special Week",
-            "text": "I wanna run in the most prestigious races,<n>where only the best of the\nbest racers are<n>allowed—the Twinkle Series!"
+            "text": "I wanna run in the most prestigious races,\\nwhere only the best of the best racers are\\nallowed—the Twinkle Series!"
         },
         {
             "name": "Special Week",
-            "text": "So I have to run! I have to win! I have to<n>become strong enough that I\ndon't ever<n>lose! If I do that, then—"
+            "text": "So I have to run! I have to win! I have to\\nbecome strong enough that I don't ever\\nlose! If I do that, then—"
         },
         {
             "name": "Special Week",
-            "text": "I'll become the best racer in all of<n>Japan—for me, for Mom and Mama,\nand<n>for everybody else back home!"
+            "text": "I'll become the best racer in all of\\nJapan—for me, for Mom and Mama, and\\nfor everybody else back home!"
         },
         {
             "name": "Special Week",
             "text": "That's my dream!"
         },
         {
-            "text": "Special Week gazes straight at me with an<n>intense look of\ndetermination."
+            "text": "Special Week gazes straight at me with an\\nintense look of determination."
         },
         {
-            "text": "It's as if just beyond those glimmering<n>eyes, she can see the shining\nfuture she<n>dreams of gazing back at her."
+            "text": "It's as if just beyond those glimmering\\neyes, she can see the shining future she\\ndreams of gazing back at her."
         },
         {
             "name": "Special Week",
-            "text": "Oh... U-um... Are you still with me? Did I<n>say something weird? Sorry\nabout that...",
+            "text": "Oh... U-um... Are you still with me? Did I\\nsay something weird? Sorry about that...",
             "choice_data_list": [
                 "I want to help you with your dream!",
                 "I want to help you with your dream!"
@@ -252,10 +252,10 @@
         },
         {
             "name": "Special Week",
-            "text": "Yes, of course! I'd love for you to be my<n>Trainer!"
+            "text": "Yes, of course! I'd love for you to be my\\nTrainer!"
         },
         {
-            "text": "And with that, I become Special Week's<n>trainer."
+            "text": "And with that, I become Special Week's\\ntrainer."
         }
     ]
 }

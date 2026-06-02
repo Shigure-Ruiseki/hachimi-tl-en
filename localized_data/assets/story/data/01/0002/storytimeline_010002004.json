@@ -3,11 +3,11 @@
     "text_block_list": [
         {
             "name": "Tazuna Hayakawa",
-            "text": "You've scouted some Trainee<n>Umamusume\nand Support Cards!"
+            "text": "You've scouted some Trainee\\nUmamusume and Support Cards!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Now that we have that out of the way,<n>\nlet's begin your everyday life with your<n>\ntrainee Umamusume."
+            "text": "Now that we have that out of the way,\\nlet's begin your everyday life with your\\ntrainee Umamusume."
         }
     ]
 }

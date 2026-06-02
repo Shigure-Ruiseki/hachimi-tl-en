@@ -3,18 +3,18 @@
     "text_block_list": [
         {
             "name": "Tazuna Hayakawa",
-            "text": "Skills are of great importance to win<n>\nraces. Using the skill menu does not<n>\nexpend a turn, so be sure to learn as<n>many\nas you can!",
+            "text": "Skills are of great importance to win\\nraces. Using the skill menu does not\\nexpend a turn, so be sure to learn as\\nmany as you can!",
             "color_text_info_list": [
                 "Skills are of great importance to win races"
             ]
         },
         {
             "name": "Director Akikawa",
-            "text": "I concur. Hoarding your skill points is a<n>\ntragic waste of potential!"
+            "text": "I concur. Hoarding your skill points is a\\ntragic waste of potential!"
         },
         {
             "name": "Director Akikawa",
-            "text": "Of course! You should select skills that<n>\nbest match your trainee's abilities and<n>the\nraces she plans to run in!"
+            "text": "Of course! You should select skills that\\nbest match your trainee's abilities and\\nthe races she plans to run in!"
         }
     ]
 }
