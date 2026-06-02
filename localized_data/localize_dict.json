@@ -4538,7 +4538,7 @@
     "SingleMode0123": "Runners",
     "SingleMode0125": "Place {1}st in {0}",
     "SingleMode0126": "Place top {1} in {0}",
-    "SingleMode0127": "<atlas=Single sprite=utx_ico_fun_00/>{0} or above",
+    "SingleMode0127": "{0} or above",
     "SingleMode0128": "Turns left: <color=#{1}>{0}</color>",
     "SingleMode0129": "$(nb)In progress",
     "SingleMode0130": "Race Day",
