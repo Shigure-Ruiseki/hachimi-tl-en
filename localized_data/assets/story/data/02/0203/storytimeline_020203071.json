@@ -3,11 +3,11 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "And that concludes today's main race, the 『Oaks』, \nas the Uma Musume finish their Winning Live!"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "The girls chasing after the Triple Tiara races now move on to Autumn. \nAt the 『Shuka Sho』 we'll be looking forward to their evolution!",
             "choice_data_list": [
                 "……Welcome back. Good work, Pandora!"

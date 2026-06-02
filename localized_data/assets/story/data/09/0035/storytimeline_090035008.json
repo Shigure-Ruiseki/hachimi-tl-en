@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Event Commentator",
+            "name": "Event Caster",
             "text": "This…! This is an incredible development! The girl who \nbetrayed her companions rejoins them once more—!?"
         },
         {
@@ -158,7 +158,7 @@
             "text": "—— Then we won't grasp victory…!"
         },
         {
-            "name": "Event Commentator",
+            "name": "Event Caster",
             "text": "Yaeno Muteki and Super Creek are diving straight in! \nOguri Cap has taken notice and prepares for battle!"
         },
         {
@@ -170,7 +170,7 @@
             "text": "Yaeno! <i>Hup!</i>"
         },
         {
-            "name": "Event Commentator",
+            "name": "Event Caster",
             "text": "Super Creek has just protected Yaeno Muteki! \nShe's still running! Yaeno Muteki!"
         },
         {
@@ -182,11 +182,11 @@
             "text": "Oguri! Ready yourself! <i>Taaaaaa——!</i>"
         },
         {
-            "name": "Event Commentator",
+            "name": "Event Caster",
             "text": "—— !! Both generals are fighting one-on-one… \nThis will be settled right here…"
         },
         {
-            "name": "Event Commentator",
+            "name": "Event Caster",
             "text": "The winner is Yaeno Muteki! With only one life left, she achieves \na huge turnabout victory at the last moment～!"
         },
         {

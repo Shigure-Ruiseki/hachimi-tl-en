@@ -63,12 +63,12 @@
             "text": "I ran through the dark halls of the academy, back to the \ntrainers' office. As I approached…"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "…and it's Tokai Teio now, moving up on the \noutside as they enter the home straight…"
         },
         {
-            "name": "Commentator",
-            "text": "And she's clear! Tokai Teio is away! But can \nshe stay away? [Commentator]: SHE CAN! Tokai \nTeio WINS! It's Tokai Teio by two lengths!",
+            "name": "Caster",
+            "text": "And she's clear! Tokai Teio is away! But can \nshe stay away? [Caster]: SHE CAN! Tokai \nTeio WINS! It's Tokai Teio by two lengths!",
             "choice_data_list": [
                 "(One of Tokai Teio's race videos?)"
             ]

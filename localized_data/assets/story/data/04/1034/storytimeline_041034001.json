@@ -151,7 +151,7 @@
             "text": "I had no idea she was a participant！ \nNo, more than that……！"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "We're finally entering the last straight！ And kicking up a cloud \nof dust, pushing forward is Inari One, it's Inari One！"
         },
         {
@@ -159,11 +159,11 @@
             "text": "With this…… it's over！ \nOraAAAAAAAA！！"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "Inari One takes the lead！！ Inari One is out in front！ 2 lengths, \n3 lengths and more！！ There she goes, it's Inari One！！"
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "Goal！ Inari One, wins the Oi Selection Race with an \noverwhelming 4 lengths！ Even with that small stature she's \noverflowing with such power, what a marvelous run！！",
             "choice_data_list": [
                 "……Haa……！！"

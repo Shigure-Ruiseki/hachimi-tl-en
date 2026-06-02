@@ -8,7 +8,7 @@
             "text": "I'd hoped to make an offer to be Manhattan Cafe's \ntrainer… but the chance hadn't come up…"
         },
         {
-            "name": "Colleague A",
+            "name": "New Trainer A",
             "text": "Wait, wait, <username>. You're not seriously \nplanning on scouting HER are you?",
             "choice_data_list": [
                 "You'd better believe it."
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "name": "Colleague A",
+            "name": "New Trainer A",
             "text": "What? Surely not. \nI mean, I can see why you might want to humor her, but come on…"
         },
         {
@@ -80,7 +80,7 @@
             "text": "Meet me here… tonight."
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "All the Uma Musume are in the starting gates, and… \nthey're off!"
         },
         {
@@ -136,7 +136,7 @@
             "text": "Closer to that shadow… that dream… \nFor as long as it takes."
         },
         {
-            "name": "Commentator",
+            "name": "Caster",
             "text": "Look at that acceleration! \nA black shadow! Consuming everything in its path!"
         },
         {

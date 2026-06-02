@@ -2,7 +2,7 @@
     "no_wrap": true,
     "text_block_list": [
         {
-            "name": "Event Commentator",
+            "name": "Event Caster",
             "text": "—— This Fan Festival's Clan Clash will soon get underway! \nLarge crowds are forming around the monitors streaming \nthe event right now!!"
         },
         {
@@ -10,7 +10,7 @@
             "text": "—— <i>Kyaaah～!</i> Gimlet, Kris, my queens! Oguriiiin!!! \n—— <size=38>Hayahide～! Overwhelm them with your amazing strategies～!</size>"
         },
         {
-            "name": "Event Commentator",
+            "name": "Event Caster",
             "text": "The Ro and Ha clans, both favorites to win, are as popular as \nyou'd expect～! Well then, the time is here! The time to fight, \nand survive as victor of these turbulent times! <b>To arms～!!</b>"
         },
         {
@@ -86,7 +86,7 @@
             "text": "<i>Waaaaaah!!</i>"
         },
         {
-            "name": "Event Commentator",
+            "name": "Event Caster",
             "text": "Yaeno Muteki wipes out a small group! But as you \nwould expect, it has taken its toll, dropping her down \nto 2 lives early on in the game!"
         },
         {
@@ -98,7 +98,7 @@
             "text": "There's no need to be flustered. Right now we must \nreconvene with Taishin and the others!"
         },
         {
-            "name": "Event Commentator",
+            "name": "Event Caster",
             "text": "Oguri Cap's Ro clan leads a fierce attack! Meanwhile, likely per \nHayahide's strategy, the Ha clan's influence creeps steadily \ncloser! Has the I clan noticed the dire straits they're in～!?"
         },
         {

@@ -2,7 +2,7 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Commentator",
+      "name": "Caster",
       "text": "And here's undefeated Triple Crown hopeful Mihono Bourbon, \nmaking her appearance at Kyoto Racecourse!"
     },
     {
@@ -75,7 +75,7 @@
       "text": "McQueen is cut off by another tidal wave of cheers. It's almost time."
     },
     {
-      "name": "Commentator",
+      "name": "Caster",
       "text": "The crowning glory of the Classics is on the line here in the Kikuka \nSho. And it all starts now!"
     }
   ]
