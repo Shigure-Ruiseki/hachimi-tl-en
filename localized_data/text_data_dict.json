@@ -19118,7 +19118,8 @@
         "113701111": "At a random point during the second half of the Opening Leg, your speed will increase; (Oonige/Runaway) your speed will only increase slightly, but your stamina will also recover. (Front Runner)",
         "113701211": "If you're in the first half of the pack at a random point during the first quarter of the Final Leg, your acceleration will increase; if you're first or second, you will also get a slight speed boost. (Front Runner/2000 m+)",
         "114301111": "If you're not in the front during a random Middle Leg straight, you will get a speed boost; then, if you're in the middle of the pack during the Final Straight, your speed will slightly increase. (Late Surger)",
-        "114301211": "At a random point on a random corner, you will get a speed boost; in Medium races, your acceleration will also slightly increase. (Medium/Long)"
+        "114301211": "At a random point on a random corner, you will get a speed boost; in Medium races, your acceleration will also slightly increase. (Medium/Long)",
+        "901321": "At a random point during the final leg approaches speed increases ever so slightly. (Late Surger/Turf)"
     },
     "49": {
         "1": "50 Jewels",
