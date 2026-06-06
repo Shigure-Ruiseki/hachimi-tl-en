@@ -40983,7 +40983,11 @@
         "201": "Miyuki (NPC)",
         "202": "Yukari (NPC)",
         "203": "Ran (NPC)",
-        "204": "Risa (NPC)"
+        "204": "Risa (NPC)",
+        "37": "Keisuke (NPC)",
+        "38": "Koji (NPC)",
+        "105": "Keisuke (NPC)",
+        "106": "Koji (NPC)"
     },
     "154": {
         "1": "Increases the effectiveness of Friendship Training",
@@ -57199,7 +57203,8 @@
         "830265003": "A Solitary Truth",
         "830292001": "Growing \"Interest\"",
         "830292002": "Thickening \"Anxiety\"",
-        "830292003": "Building \"Love\""
+        "830292003": "Building \"Love\"",
+        "501074201": "Before the Hopeful S."
     },
     "182": {
         "1001": "Special Week",
