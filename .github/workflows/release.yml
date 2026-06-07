@@ -42,43 +42,61 @@ jobs:
           commit_message: Update index
           branch: release
           file_pattern: 'index.json'
-
+          
       - name: Send update to downstream repositories
         env:
-          UPD_TOKEN: ${{ secrets.NOTIFY_REPO }} # Đã sửa thành secrets.UPD_TOKEN
-          REPO_LIST: ${{ vars.NOTIFY_REPO }}
-          REPO_OWNER: ${{ github.repository_owner }}
+          UPD_TOKEN: ${{ secrets.UPD_TOKEN }}
           CURRENT_REPO: ${{ github.event.repository.name }}
         run: |
-          # Kiểm tra nếu biến REPO_LIST bị trống
-          if [ -z "$REPO_LIST" ]; then
-            echo "⚠️ [LOG]: Biến NOTIFY_REPO chưa được thiết lập hoặc trống. Bỏ qua gửi update."
-            exit 0
-          fi
-
           if [ -z "$UPD_TOKEN" ]; then
-            echo "❌ [LOG]: Secret UPD_TOKEN bị trống hoặc chưa được cấu hình!"
+            echo "❌ [LOG]: Secret UPD_TOKEN chưa được cấu hình!"
             exit 1
           fi
 
-          IFS=',' read -r -a repos <<< "$REPO_LIST"
-          for target_repo in "${repos[@]}"; do
-            target_repo=$(echo "$target_repo" | xargs)
+          echo "🔍 Đang liệt kê tất cả các repo trong tài khoản (xử lý phân trang)..."
+          
+          # Sử dụng hàm để gọi API và lấy danh sách repo qua các trang
+          page=1
+          all_repos=""
+          while :; do
+            # Lấy danh sách trang hiện tại (100 repo/trang)
+            response=$(curl -L -s -H "Authorization: Bearer $UPD_TOKEN" \
+              "https://api.github.com/user/repos?per_page=100&page=$page")
             
-            if [ -n "$target_repo" ]; then
-              echo "🚀 Sending trigger signal to: $REPO_OWNER/$target_repo với event_type: $CURRENT_REPO"
+            # Nếu danh sách trả về rỗng thì dừng vòng lặp
+            if [ "$response" == "[]" ]; then break; fi
+            
+            # Lọc tên repo bắt đầu bằng "hachimi-tl-"
+            page_repos=$(echo "$response" | grep -o '"name": "[^"]*"' | cut -d'"' -f4 | grep "^hachimi-tl-")
+            all_repos="$all_repos $page_repos"
+            
+            ((page++))
+          done
+
+          # Loại bỏ chính repo hiện tại khỏi danh sách
+          target_repos=$(echo "$all_repos" | tr ' ' '\n' | grep -v "^$CURRENT_REPO$" | sort -u)
+
+          if [ -z "$target_repos" ]; then
+            echo "⚠️ Không tìm thấy repo nào có tiền tố 'hachimi-tl-' ngoại trừ repo hiện tại."
+            exit 0
+          fi
+
+          echo "✅ Danh sách các repo mục tiêu:"
+          echo "$target_repos"
+
+          for target_repo in $target_repos; do
+            echo "🚀 Sending trigger signal to: ${{ github.repository_owner }}/$target_repo"
+            
+            RESPONSE=$(curl -L -s -o /dev/null -w "%{http_code}" -X POST \
+              -H "Accept: application/vnd.github+json" \
+              -H "Authorization: Bearer $UPD_TOKEN" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+              https://api.github.com/repos/${{ github.repository_owner }}/$target_repo/dispatches \
+              -d "{\"event_type\": \"$CURRENT_REPO\", \"client_payload\": {\"ref\": \"main\"}}")
               
-              RESPONSE=$(curl -L -s -o /dev/null -w "%{http_code}" -X POST \
-                -H "Accept: application/vnd.github+json" \
-                -H "Authorization: Bearer $UPD_TOKEN" \
-                -H "X-GitHub-Api-Version: 2022-11-28" \
-                https://api.github.com/repos/$REPO_OWNER/$target_repo/dispatches \
-                -d "{\"event_type\": \"$CURRENT_REPO\", \"client_payload\": {\"ref\": \"main\"}}")
-                
-              if [ "$RESPONSE" -eq 204 ]; then
-                echo "✅ Triggered $target_repo successfully (HTTP 204)."
-              else
-                echo "❌ Failed to trigger $target_repo. Received HTTP status: $RESPONSE"
-              fi
+            if [ "$RESPONSE" -eq 204 ]; then
+              echo "✅ Triggered $target_repo successfully."
+            else
+              echo "❌ Failed to trigger $target_repo (HTTP $RESPONSE)."
             fi
           done
