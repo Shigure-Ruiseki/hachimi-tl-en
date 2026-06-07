@@ -42,7 +42,7 @@ jobs:
           commit_message: Update index
           branch: release
           file_pattern: 'index.json'
-          
+
       - name: Send update to downstream repositories
         env:
           UPD_TOKEN: ${{ secrets.UPD_TOKEN }}
@@ -55,18 +55,19 @@ jobs:
 
           echo "🔍 Đang liệt kê tất cả các repo trong tài khoản (xử lý phân trang)..."
           
-          # Sử dụng hàm để gọi API và lấy danh sách repo qua các trang
-          page=1
-          all_repos=""
           while :; do
-            # Lấy danh sách trang hiện tại (100 repo/trang)
             response=$(curl -L -s -H "Authorization: Bearer $UPD_TOKEN" \
               "https://api.github.com/user/repos?per_page=100&page=$page")
             
-            # Nếu danh sách trả về rỗng thì dừng vòng lặp
-            if [ "$response" == "[]" ]; then break; fi
+            # Kiểm tra xem curl có trả về lỗi (401 Unauthorized) không
+            if echo "$response" | grep -q "message.: .Bad credentials"; then
+              echo "❌ [ERROR]: Token không hợp lệ hoặc hết hạn!"
+              exit 1
+            fi
+
+            if [ "$response" == "[]" ] || [ -z "$response" ]; then break; fi
             
-            # Lọc tên repo bắt đầu bằng "hachimi-tl-"
+            # Sử dụng jq (nếu có) hoặc grep để lấy tên repo
             page_repos=$(echo "$response" | grep -o '"name": "[^"]*"' | cut -d'"' -f4 | grep "^hachimi-tl-")
             all_repos="$all_repos $page_repos"
             
