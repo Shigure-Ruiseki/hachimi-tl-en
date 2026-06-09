@@ -1,4 +1,13 @@
 {
     "zokuzoku.enabled": true,
-    "files.autoSave": "off"
+    "files.autoSave": "onFocusChange",
+
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    "editor.codeActionsOnSave": {
+        "source.fixAll.sortJSON": "always"
+    },
+
+    "cSpell.language": "en,vi"
 }
