@@ -9,5 +9,8 @@
         "source.fixAll.sortJSON": "always"
     },
 
-    "cSpell.language": "en,vi"
+    "cSpell.language": "en,vi",
+    "cSpell.words": [
+        "storytimeline"
+    ]
 }
