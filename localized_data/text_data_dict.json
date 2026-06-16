@@ -70063,7 +70063,7 @@
         "44": "Friendship Gauge of all support cards and all allies <color=#FF6D26>+{0}</color>\nFriend and group types excluded.",
         "45": "<atlas=SingleModeScenarioPioneer sprite=utx_ico_pioneer_resource_s_00/> Dev Pt<color=#FF6D26>+{0}</color>",
         "46": "All support cards' specialty rate <color=#FF6D26>+{0}</color> next turn.\nFriend and group types excluded.",
-        "47": "$(scale 90)Increases the Dream Gauge of team members \n<color=#FF6D26>{0} times</color>, starting with the lowest ones.",
+        "47": "Increases the Dream Gauge of team members \n<color=#FF6D26>{0} times</color>, starting with the lowest ones.",
         "48": "<atlas=SingleModeScenarioOnsen sprite=utx_ico_onsen_bathing_ticket_00/> Bath Tickets <color=#FF6D26>+{0}</color>",
         "49": "Super Recovery can start occurring",
         "55": "Skill Pt<color=#2E85E6>-{0}</color>"
